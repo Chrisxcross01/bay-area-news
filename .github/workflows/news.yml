@@ -1,0 +1,46 @@
+name: Bay Area real estate news
+
+on:
+  schedule:
+    # Every day at 15:00 UTC (8 AM Pacific in summer, 7 AM in winter).
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "auto = weekly roundup on Mondays, urgent check otherwise"
+        type: choice
+        options: [auto, weekly, urgent]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Research, write and publish
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node src/run.js --mode=${{ github.event.inputs.mode || 'auto' }}
+      - name: Save results
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "News update $(date -u +%F)"
+            git push
+          fi
