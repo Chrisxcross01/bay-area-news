@@ -43,4 +43,7 @@ jobs:
           else
             git commit -m "News update $(date -u +%F)"
             git push
+            # Lofty reads the feed through jsDelivr (its firewall blocks github.io),
+            # so clear jsDelivr's cached copy right away.
+            curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/docs/feed.xml" || true
           fi
