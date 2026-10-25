@@ -1031,7 +1031,7 @@
     "importance": 5,
     "reason": "MVWSD $8M shortfall in board race.",
     "firstSeen": "2026-10-21T21:07:39.145Z",
-    "covered": false
+    "covered": "2026-10-25T15:14:55.524Z"
   },
   "how many games will james 76ers win this season": {
     "title": "How many games will James’ 76ers win this season?",
@@ -2472,7 +2472,7 @@
     "importance": 5,
     "reason": "Possibly Palo Alto local measure debate.",
     "firstSeen": "2026-10-22T15:23:05.234Z",
-    "covered": false
+    "covered": "2026-10-25T15:14:55.524Z"
   },
   "pg e plans november repair of void at cape horn dam in mendocino county": {
     "title": "PG&E plans November repair of void at Cape Horn Dam in Mendocino County",
@@ -3473,7 +3473,7 @@
     "importance": 5,
     "reason": "San Jose district program, not structural change.",
     "firstSeen": "2026-10-23T15:22:54.386Z",
-    "covered": false
+    "covered": "2026-10-25T15:14:55.524Z"
   },
   "latam lithium announces agm results": {
     "title": "LatAm Lithium Announces AGM Results - TradingView",
@@ -4177,7 +4177,7 @@
     "importance": 8,
     "reason": "San Mateo-Foster City $498M school bond proposal.",
     "firstSeen": "2026-10-24T15:12:59.923Z",
-    "covered": false
+    "covered": "2026-10-25T15:14:55.524Z"
   },
   "new ronald mcdonald house logo flock camera use 6 trending stories in the south greater houston area": {
     "title": "New Ronald McDonald House logo, Flock camera use: 6 trending stories in the south Greater Houston area - Community Impact Newspaper",
@@ -4815,6 +4815,468 @@
     "importance": 0,
     "reason": "Wisconsin crime.",
     "firstSeen": "2026-10-24T15:12:59.923Z",
+    "covered": false
+  },
+  "edsource do later school start times help california students here s what a new study says": {
+    "title": "EdSource: Do Later School Start Times Help California Students? Here’s What a New Study Says",
+    "link": "https://www.svvoice.com/edsource-do-later-school-start-times-help-california-students-heres-what-a-new-study-says/",
+    "source": "EdSource",
+    "published": "2026-10-25T15:00:00.000Z",
+    "category": "schools",
+    "importance": 3,
+    "reason": "Statewide school start time study, indirect Bay Area relevance.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "san mateo traffic stop leads to arrest of 2 women with outstanding warrants": {
+    "title": "San Mateo traffic stop leads to arrest of 2 women with outstanding warrants",
+    "link": "https://localnewsmatters.org/2026/10/25/san-mateo-traffic-stop-leads-to-arrest-of-2-women-with-outstanding-warrants/",
+    "source": "Nicole Tingson, Bay City News",
+    "published": "2026-10-25T15:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "bay area bands address suicide awareness and mental health": {
+    "title": "Bay Area bands address suicide awareness and mental health",
+    "link": "https://localnewsmatters.org/2026/10/25/bau-area-bands-address-suicide-awareness-and-mental-health/",
+    "source": "Shivika Verma, Mosaic Journalism",
+    "published": "2026-10-25T14:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Music/culture feature.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "around town aiding a billionaire a pivot on housing": {
+    "title": "Around Town: Aiding a billionaire, a pivot on housing - Palo Alto Online",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUtaeml5MWc2ejdabWpCMU9hQUtLSHFmS2NVdWZZVlNyNzRxQllVRUUtWWctU1RjYW94UWs5UU02ZS1adXhMbUxFbHloVTJJVE45WlZnT0FVN0lLOUhwcWZEdzE5Q3VrQkV4RllubzJoc25DNERPdmxpNC1FZHFOQmF5czYtc1pMam5tNzFCbjR6YzRadFZ3VXhLZDNmYmRxa2FJNmJsSQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-25T13:52:54.000Z",
+    "category": "local_policy",
+    "importance": 6,
+    "reason": "Palo Alto column notes a pivot on housing policy.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "a last minute voter guide to all 14 propositions on the california ballot": {
+    "title": "A last-minute voter guide to all 14 propositions on the California ballot",
+    "link": "https://www.paloaltoonline.com/calmatters/2026/10/25/a-last-minute-voter-guide-to-all-14-propositions-on-the-california-ballot/",
+    "source": "CalMatters",
+    "published": "2026-10-25T13:00:00.000Z",
+    "category": "law",
+    "importance": 6,
+    "reason": "Statewide ballot propositions, including tax measures, could affect Bay Area homeowners.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "a sign of the times political sign theft vandalism pops up in south bay cities": {
+    "title": "A sign of the times? Political sign theft, vandalism pops up in South Bay cities - The Mercury News",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFNHQUFzYUZYRjBmMUhoY1YzaWxtN1VTNnpSQkdKTkhhZ01DeDhNRjdwbUNXLVRzWFdWSVN3bVlwaEpzUUV3VHhPeGJhUUdfUFNhZTVIdVJhZ3NoOUl3Z05EdE5MRUtkTVVvUXV3OFMzcFMtSnlGak5uX2FTYmUtNXEzcWl6OEU?oc=5",
+    "source": "Google News",
+    "published": "2026-10-25T12:00:19.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Political sign vandalism, not housing.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "foster city water lantern festival draws young crowds": {
+    "title": "Foster City Water Lantern Festival draws young crowds",
+    "link": "https://localnewsmatters.org/2026/10/25/foster-city-water-lantern-festival-draws-young-crowds/",
+    "source": "Claire Dong, Mosaic Journalism",
+    "published": "2026-10-25T12:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Community event.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "lawrence edward fordyce obituary los gatos ca 1933 2026": {
+    "title": "Lawrence Edward Fordyce Obituary - Los Gatos, CA (1933-2026) - The Mercury News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmJHLXVzTlBjTlJ6OWQ1YjNvVDFPQXRSSEFpTE1rZGtEeVBiVEN2VXZIb3JsV3VWWEFaRlY2SmVjd3dnRkFYMHlFd1diQWxMNk83WWFRdUV0c0JZclR4dE5XdVFCOE1GS2Vabmx1MGtTUGJaS01UOTdvYzQ0N2F6VW5GMUVRMG5tNWc?oc=5",
+    "source": "Google News",
+    "published": "2026-10-25T10:37:05.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Obituary.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "harder mcbride square off in reshaped congressional district spanning the delta": {
+    "title": "Harder, McBride square off in reshaped congressional district spanning the Delta",
+    "link": "https://localnewsmatters.org/2026/10/25/harder-mcbride-square-off-in-reshaped-congressional-district-spanning-the-delta/",
+    "source": "Chris Woodyard, Stocktonia",
+    "published": "2026-10-25T10:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Congressional race outside the core area.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "concord police investigating fatal knife fight between man and woman in residence": {
+    "title": "Concord police investigating fatal knife fight between man and woman in residence",
+    "link": "https://localnewsmatters.org/2026/10/24/concord-police-investigating-fatal-knife-fight-between-man-and-woman-in-residence/",
+    "source": "Thomas Hughes, Bay City News",
+    "published": "2026-10-25T06:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "300 000 reward for unsolved murders includes daly city girl": {
+    "title": "$300,000 reward for unsolved murders includes Daly City girl",
+    "link": "https://localnewsmatters.org/2026/10/24/300000-reward-for-unsolved-murders-includes-daly-city-girl/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-10-25T05:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime reward news.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "marietta breaks ground on 64 unit senior housing complex on roswell street": {
+    "title": "Marietta Breaks Ground On 64-Unit Senior Housing Complex On Roswell Street - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWi1RQXJHb0ZWS2F5MmtuVXR2THNKRDgwb0c3LVAyVS0zT3pxX3NhcjF5cktFNGNtbXREaFV2dTBaRm9ydzEtajljZ1BiNHNIMlNvOE1QdFZxeU1ZZ3ZzZnpLbVZObkloMmlJMTg0S0doVTZWS0V5MUlCM1NWOFVaMTVBaFpQNGNTSzc1bXVBMnZFb2ZPb01UeV8xRTdIa29PN3ZnaXFKUQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-25T04:12:51.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Georgia development.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "incumbent barrientos faces challenger in livermore district 2 council race": {
+    "title": "Incumbent Barrientos faces challenger in Livermore District 2 council race",
+    "link": "https://localnewsmatters.org/2026/10/24/incumbent-barrientos-faces-challenger-in-livermore-district-2-council-race/",
+    "source": "Tanay Gokhale, Bay City News",
+    "published": "2026-10-25T04:00:00.000Z",
+    "category": "local_policy",
+    "importance": 0,
+    "reason": "Livermore council race, outside core focus.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "two teens arrested in east san jose armed robbery": {
+    "title": "Two teens arrested in East San Jose armed robbery",
+    "link": "https://localnewsmatters.org/2026/10/24/two-teens-arrested-in-east-san-jose-armed-robbery/",
+    "source": "Nicole Tingson, Bay City News",
+    "published": "2026-10-25T03:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "woman dies nine days after being found unresponsive at santa rita jail": {
+    "title": "Woman dies nine days after being found unresponsive at Santa Rita jail",
+    "link": "https://localnewsmatters.org/2026/10/24/woman-dies-nine-days-after-being-found-unresponsive-at-santa-rita-jail/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-10-25T02:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Jail death.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "opinion how i became a public transit rider": {
+    "title": "Opinion: How I became a public transit rider",
+    "link": "https://localnewsmatters.org/2026/10/24/opinion-how-i-became-a-public-transit-rider/",
+    "source": "Sophie Luo, Mosaic",
+    "published": "2026-10-25T01:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Opinion piece on transit tax.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "artificial intelligence ai boom brings new wealth to bay area and new worries about growing affordability crisis": {
+    "title": "Artificial Intelligence: AI boom brings new wealth to Bay Area, and new worries about growing affordability crisis - ABC7 Bay Area",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVmMzUU1yNmV2Q0l1cU5MUHZpSXk1djVuSEZhMTBoY2lCTWxxaFZ6c0RCaTNKTHhRNmRxYVJRc0hhUGI4R0J0bldLWmw5YklBdkNISlZ6VVlfY2ZxR0NaVlJSOENFRjE2dGdBX0hYMHZqcUJhMVBNa0FwTEw2TnNubFRnSFVjVjFxSEl2OXBsTjcxS1R5ekc3MGdhc0hKODBDMnN1SG5GVEV6bVdPVm1oQldzb2w2SXJiNFZaaVJBc2dzTEVNZFZfcFdmb9IB0AFBVV95cUxQeVphNGJEZ2RtQkZKZ1ZiV2hQV0dKVlZPMVRVY2EzZUVCQmVheGpBRlFtZ0xpQVFmMlhaajRlWTltNWJ5LTRqREM4QXdncXV0RjYtRUhFdlJyTmRwLUdYM29UUkFuWjhpek1mMTJSSTFsMWhHSU1sdjRVQW4zTXdUNDJDR0pYLVh5aUpXTXl0MkppeTBTdkh2STJnWXAyZWFCQ3gybjZYX2NvbXh5el81YTE5SlppTEx3dzZDY1dMMFZtQnhOYVAzRTRnSzNsTHFK?oc=5",
+    "source": "Google News",
+    "published": "2026-10-25T00:58:22.000Z",
+    "category": "market",
+    "importance": 6,
+    "reason": "AI wealth and Bay Area affordability affect the housing market.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "kajiken opens first south bay location at valley fair": {
+    "title": "Kajiken Opens First South Bay Location at Valley Fair - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2V4eVJpU0haZURZLVUzUGgxYjhvdXg5OFV0RmZWNGhZNGd2M3hOcEFvdnBsQUhocUhnN0xBa19vWGpLaG1vQkRBQ0d2c2dvaE5QOEY5d1RDOWdXT3dNWmN5ellWRlMzTkdWdU1ya1YzNGFhSHVIVm9pbmhOb1M1RFVSZGlHbEw4VXdfZVRvUzJrN2IxZ2kweXp2dFprZW1lYmJySE5DQVY0S28?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T22:07:51.000Z",
+    "category": "development",
+    "importance": 3,
+    "reason": "Small restaurant opening at Valley Fair.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "tfw carries out metro upgrades on cardiff bay line": {
+    "title": "TfW carries out Metro upgrades on Cardiff Bay line - megaproject.com",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3ByNEpqMXhCQURoSllHSHZaV0JJbzlfbUsyOTh1RVZnZ2Q1dGIzMHZsMGxHQ1RuOFktQ3BEb1lER0pnZzJVdUxlYjZJSUM1YWlFdHZVR2VsMXU2dG93Sml4dGpiSmhWUWJmd1ZsWTFlaF9FVkJLWHBoSU51bi1DNjlWc0xVLVhJN3ZEbEM1aVg?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T19:56:29.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Wales transit.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "why conservationists wanted to secure this 436 acre wildlife corridor in napa county": {
+    "title": "Why conservationists wanted to secure this 436-acre wildlife corridor in Napa County - The Press Democrat",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DYm92N2wtWEdWREVHLXM5UHN2SzhzLW9iVm4wcVV6bzlqS0NVLXJGMGdXaDRkY0duNkxxcnQxeEpwVnRBWGNaU1dFZFREOVNsbW5tUTlnN2FBaS05eWM2SlZoYmN0czVIM2lCZGNzX2JXUDJ1SlE?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T18:01:18.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Napa conservation.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "palo alto s deng keeps raising money after saying she d stop": {
+    "title": "Palo Alto's Deng Keeps Raising Money After Saying She'd Stop - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDNldVczWV9USXZZbVBzNXhkazZKdV85amFsZ3VFUmgtVzUwTUxORzBQV1MwbHJZSUpCUEd0eGxQNUZ2TWhNYzVldElTUkRkeXV2MTluRmkwVERyLXlDY2F4YS13ZnZDZlF0UDljQTg0QjhiNU1qOGZVNFpyQjZpZlM4MU1lREZlZnZMSlczOXBLNk0tNmRVX2NmVkZQUl9xZXZIXzBTSHo?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T17:52:51.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Campaign fundraising.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "butcher business to open in historic downtown west building": {
+    "title": "Butcher business to open in historic Downtown West building - KSDK",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNmdtZVJnMlVFVVpRQVl2b01INksydzFMdEhPdy1XNDFlb1FvZXdzZG1BVDBsSHdLQlZmbDJ6dEM5Y2dWMVZTX01mYm9xcmpGcE1fcHNxQ1lpY3d5dlk1WTFnaGlRRm5NR0FEbmdCYjZsVThjS1Roc2o1c1JBUThYaDFDVkRoREllZG5ncUpVVnh2VUMwclpzZFNaX2U0MGhVYUZVRWYtOGhYTkJfRXhDX2h4a21OcjFKUm5wZjZNNlNpeTVvemQzd25hR2dUU0hWMHRkWkdHQnVjdw?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T15:56:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "St. Louis area news, not San Jose.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "alexandria s heritage at old town breaks ground on 288 units": {
+    "title": "Alexandria's Heritage at Old Town Breaks Ground on 288 Units - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0pkTGp2V1R6WXc1ZjlEX3c5ZTdHVndvSjhkRHYxYmxHVmlzUXZ3RlgyX2l2UEIyUG5VR3UtMGVQVm5WMzVRRm03bk0tWkV1RExlbFQyMmhzcENibE15bHBFU01PaG9xX1JzcnY3OUY1X1p0WWVXQ2R2ZThsdzFRbklUY3pOc0ttYUtuTkx6Z1BhNy1mMlFjeThBVzRtMnMxRnBVWFdrWWJnT2p2MjFj?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T15:52:42.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Virginia development.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "will new state laws reduce dangerous e bike riding in silicon valley": {
+    "title": "Will new state laws reduce dangerous e-bike riding in Silicon Valley? - San José Spotlight",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjJ4ampOODlUQ3hNODR4UTEzUzFsZWxhVlV4cjdXMUJ3eWFxSTZ1X1Ezd3hIOFdPRjVnM2Jnampvd0h4SFhER1I2eVJ2U2JzTFdOaGw1RjhjRzJXU09rOVhqMUNEUFZFNTZHcnA4YnNuT3BnVUV2bEhiNkRJcTB1TUg3RW42ZkFVTHFfTWtTNmFDdWJ2M3VTTDZnYy1IbzQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T15:39:20.000Z",
+    "category": "law",
+    "importance": 3,
+    "reason": "E-bike laws, minor homeowner relevance.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "obituaries local residents who have died recently": {
+    "title": "Obituaries: Local residents who have died recently",
+    "link": "https://www.mv-voice.com/obituary/2026/10/24/obituaries-local-residents-who-have-died-recently-28/",
+    "source": "Embarcadero Media staff",
+    "published": "2026-10-24T15:30:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Obituaries.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "granddaughter of korean independence fighter brings korean history to us schools": {
+    "title": "Granddaughter of Korean independence fighter brings Korean history to US schools - The Korea Times",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa2N6dDl4alFiSWpxbU80OV9EcXZJa1B4VVloSjhfT0d0WjFud2F6WnNUSlBZYUxpZm5wU05DSDFsMHRNcF9SQmM5TDVKV1ZXUjZRRC0yemVPZHNWMEJCNjZmYlNLNWstQUZSM2pKUlNEUXlSRkFTVmZjcHBicGk1SXI3aVdiM25JUURGRVNPMjR5TWVmOVVPd09qV2Jyci1TQklxSEdWd1J0bVItQUZvTFNsM2prTUcweWxkTkVtWC11RjVJa3hFTdIBzgFBVV95cUxNUEFPck9ETHBBUlR4R0ktaGdmUXlIOEpuVThlXzBRWDVabFBWWnBHbDg0OHYwV3dBdDRyQVNEbUIyNXZUOXBUUEYwYmgwdk5rNzZaLU1iZVZYaHhVZFIxNkYtdWRjenI5SS1uTE5XRUNKdW5YZUFPM3I4SENGcXdZMkRmT1pxUVhGb1JDeklucXRBWkRBZk53QkczZzJxUDVybVBGWWVDMzBiSXk4ZXJ3NkFkTm1vcDJSVTB3MXdPZFRadHE4d0NwXy1WLWNHQQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T15:20:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Not local.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "6182 w san jose ave fresno ca 93723": {
+    "title": "6182 W San Jose Ave, Fresno, CA 93723 - Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkNncFN4dHVfaDE5SmdVWmNqa1p0VjdpbHIzaF9ONEJ2QlhORmxyVF9zdDNYZ3FPeFFOUnVqZ2lQay1YWXItNmdRaWZrbGduUVUwd3dwUEwtSk1NQ3VDVGVPTlltSU0xWE5yRmFxWkhFckNVLVVYWmZEQ1A5a0FiR2ppZEZCRWx3dlNpMW5pTzYwdw?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T14:40:54.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Fresno listing.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "lipstick on a pig signs send message to proposed development": {
+    "title": "‘Lipstick on a pig’ signs send message to proposed development - FOX5 Vegas",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWFmSEI0REhvTk9zRVFoVFZvWk1BNnZ3SF83YlRtSGdOSmduU3Z5ZXhfMEVNeE1KcGM2QWRLWG9oc2E3Mk9JdXZacXBxWGtwOUowYTctMkVsOXc4clpJRkJBTHBIak0wcFR1S0pwX3F4LU9vYm1XeUJzTlFPajJFQjN0LXpBeDVIWF9TcTlTSlpINVFS0gGoAUFVX3lxTE1TOWJnNkxiSkRRdWkxRnV5NzQyQ1Y3N1c2NVhxOUMza1pVSURhX0xEOVgzekltS3Q3LTVrbUE5eHBYRVg0REVnckotdG9ral9oSUhaWGVkVkl6TjJrR1hiU05jeGNYME0tLWFjb2pHTEUtNVM5czBJT0NCcXhUYVdldko1QkUzT1hyTkpNemtDZERJQmpHNUpZRzFRV3c2LU9qQlY0U3BCWg?oc=5",
+    "source": "Google News",
+    "published": "2026-10-24T01:31:00.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Las Vegas.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "four bedroom home sells in danville for 1 8 million": {
+    "title": "Four-bedroom home sells in Danville for $1.8 million - East Bay Times",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnFwOF9ySXV2NjNrZ2t1dW9rNWxUSFE3Rmg1c3JDUGVYcnQ5Rk5HQ0ZseGc2UG1lc2dIZlk5OGN2WEtWaU9fU2dNNUpzSU96LTczVDgyam9yWjhrSVBEMlJ4UE9rVmNSeEVtRmRqNjJQdjUtZ09KOE00TTZTN3k1eHVIb29TVmYxM2R6b3RCdE5RQmVQV0xN?oc=5",
+    "source": "Google News",
+    "published": "2026-10-23T21:00:20.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Single home sale, outside core counties.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "trump s executive order targets mortgage insurance refinance costs what it means for borrowers": {
+    "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers - CNBC",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xUUdNZDZZNHVyNVhBXzBjWVVCSXdNN0ZmanlPWk0xaXcxclJ1LXl2MnJxSkphb0JtOEpjV3dsTnp3d2pOQTcta1ZmY3ZGZS1vdGk5MnNmT1BoTTZ0bnoxZUxkOFJlLTh2TExRRE5OYWJHSUZaYm9wZF9iZm03d9IBgwFBVV95cUxPcmZpejNUaE5wcTJOamp2UGZZc1R4MEU4TFVURHQyMFNENUNpb0pTTGs1MjRrcVBGMlZqTlhiWW1WMFdiNmdHN0w3T3lTeVlER0RIeWhUdmdabnJ6T2c0aGJMQkt6aXFCM3kyRkZHVzBabTJFR05SWlNkQ1piLW9wODZaVQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-23T19:53:13.000Z",
+    "category": "market",
+    "importance": 4,
+    "reason": "Federal mortgage cost changes affect buyers nationally.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "vineyard park oro valley senior living breaks ground": {
+    "title": "Vineyard Park Oro Valley Senior Living Breaks Ground - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQThHVWtYbV9GR2FXbkUwRmlxX1hIRVI3MFA5RWJ4OWxDTHFKYVBidVFNTEM1UTkxMzVUUmJGRmFMWE5JUEM0eW1fSUNRdmFLQVkyTmFBQnFLaENQUkwzTE5KTzVGRk1FVV9OcHhDMEdSMlNvSGs1RV9PMzVmN1dDaWhHSzNzV01MNmpLaFBCdW5QMUxaU2dQdzdrY3RQc3JDUkxDVW9RVQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-23T19:29:00.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Arizona.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "girls tennis prevails against sequoia on senior night m a chronicle": {
+    "title": "Girls Tennis Prevails Against Sequoia on Senior Night - M-A Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmkwNjZwZmNRVWs0MlVYcDhaZDVXV3JPaDE4TGN3UzU0U1E3WllzQlZYMjM2ZmJYUDh6ZE1yMzl6ZEFDVzdJTDJQRVVUVTNVT3lSb3lWTUVaY3JCSzFBNFpzTXhyVmR2S2xNQld6WkhPaUlwSzVuZzJsMktZbzZhaUpETFo?oc=5",
+    "source": "Google News",
+    "published": "2026-10-23T18:17:45.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "dance gym culinary lab included in manvel high school expansion plans": {
+    "title": "Dance gym, culinary lab included in Manvel High School expansion plans - Community Impact Newspaper",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWhuX2ZNSE83MV9XNURfdVJjWklCMWowUzEyWWhLbXJQTW5fdWNBX2pSUThVTWtWeHBOMEhTZnZzSTB1T0p0ZEh5LXludmFtR0gzb1M0WmJSdkUwNm0zQTNmM0UzdWVEUXJtbHFlS0p0NnRfcDAzM3lEVlVCQUhqcEduYktQMEVIS3hDWmQ5UVR5OXdYTnNER001Y3ZEb1VjemdtSkVacE9NNGo3aEVsNUVlT3FoNUVLZ3pyUmZfQkpPeE01TEVZMU9JVnJWUWhqaFE?oc=5",
+    "source": "Google News",
+    "published": "2026-10-23T01:00:00.000Z",
+    "category": "schools",
+    "importance": 0,
+    "reason": "Texas school.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "fox cities habitat breaks ground on horizon crossing mixed income development": {
+    "title": "Fox Cities Habitat breaks ground on Horizon Crossing mixed-income development - WLUK",
+    "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQd1F2b013dmhJQmRUZFYzREZBZFJmSUZReEJDTGI3dGZjUDN5UGpLMklBQ1BKczhPSDZwd1VFMlIxN2czRUVpQ0lMVEJyZmVrNTBCazVBY3paYmZmWUdIOFJ3OEJlR2VRaHhHVGpFQW1zUzlGamsyX1lZRVRtQlJ3UzV1VTIwTlhNNWo5eHgzcVJ4MHBCX3dla2RYOGN5TEtTRnpacVZPNHVKZDZyVkpwcFg3dzhxcldNV2MwUi1rY2M4RzNjRllack1aNHZGWVR4WkptWnhHOENQTGdISzBibHlSY0NldXQ3Z1FfRUt4RDlNWGZVYWdua01ZQlFNZzNIM1JxUlpyMzd2TFFYTjdOalFwMDJmTGdmSkFsVVVURHhwdEJFRDFoV0JR?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T20:18:31.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Wisconsin.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "morrison approves plan for 16 acres with new development firm": {
+    "title": "Morrison approves plan for 16 acres with new development firm - Canyon Courier",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVU2dDlmNS1MY3B4dWIybUx3YTVaM1B0TjRMQUk0WWJBcW1CNHNRcEFBT0gxRjJCWmRmWkpOZHo2MjdVblM3cmJnc3NZMmEyMGZXT2tBU0hCX1RndGphSDZuLW5OdkdUZFZmay0yNjA5Q1pvSUpybkozeXY2WXhmWWY4Wms4N3ZLRUFlN2JPdVExZGNDQnM4emFmUC1ocUdVT1VyNjBsX3BmREhlZFpxR2Y4NFhfSk02V2R5dzZHMEh6UTZpam5ycTlDbkRRRFZ5azRtQXQ4ZFhqSFNnU2Rj?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T17:17:10.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Colorado.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "palm beach state college launches first segment of florida quantum safe network": {
+    "title": "Palm Beach State College launches first segment of Florida quantum-safe network - cw34.com",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcjVEcEliQnRCTTVmV2pLRVlWQTFzT1Y4djNlRklkdDgwUGNlcGVmSEhNUmZrWEU2VjhDdDVKdE9rN0VrT3NQeHJJeFVsc25mVXNNY0NiX2xyLVhidUFCdmktd3VyS0pLbjZrZFN4LTN6eHVYdzMwc3JYcWxYdlVCOFhDS2MzMUtyYkNGWmxMZWJ4RkRmMW9XTUpVNGFvejFLekQ5MVJVbGhMZ0wxcF9EeEpnV2pvM0hYQ2lIR1dJcW1QcHQzeVhCVUVJaE5razIySldEd2x5OG5DV2JHNVQ0TFQzTEVLeEZTMUN6VTV2LXVGcXJCRU1ZTVNLWW5zMnFSRkloSnlIWTBQdw?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T16:32:19.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Florida.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "ohio strawmen shine light on odd property tax appeal rules": {
+    "title": "Ohio ‘Strawmen’ Shine Light on Odd Property Tax Appeal Rules - Bloomberg Law News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelRmanhFYVQtVGVuTWJoRjNyWXdqMHB6M29vUVlyS18xY2ZQekdkT3ktVU9iWFFoR05CaHhMb1NUdUNHTFZTdjlPYlFrY2FXZjRRNzJtY29nNGdxdV9NTHdOOTg4aEJWZmVSNlF0QmxZa1FXWVppNHhNRWZkY1FqSVdURktLOWZnM3pwT1hQY3lGMFVEVzZVSmlzX1NETjhk?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T08:45:00.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Ohio.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "milton pauses blueprint map directs staff to craft new citywide trail strategic plan": {
+    "title": "Milton pauses blueprint map, directs staff to craft new citywide trail strategic plan - Citizen Portal AI",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUhSbi1iUVpOUzBaMVc5eG1HSzhVMENFSlg5RUhReEVVUjhMWm9iNmhYRzJaNm1fZ3pCUFBjX1BsS3pIeWUwTEVtWTZsY2QtTGY3S2c5TjgyV19pZVZQUUhGZHE0ejg4ZVMxa3VQRklVdERNR0tWbFRCVm0wV3JpUTB1a2ZGeTFkOWg3SW9xNkVpUTZyU1FNZnJQenJwTHlTanByN1hvSkd3ajVFSnBfR0tHRXR6WXBnb1FSR1BvZ3VkNjZ1dVE?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T07:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Not Bay Area.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "bond committee recommends preliminary slate of 10 pedestrian crossings asks staff to seek public comment on top 17": {
+    "title": "Bond committee recommends preliminary slate of 10 pedestrian crossings, asks staff to seek public comment on top 17 - Citizen Portal AI",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNThnaFV5TFM3UWNyQlE1Y0tYRGRlNXcyRVctTzdMUFVNQmpSZXpvVTIyMHlLRU1wcFZOMVpPWDIxZVlrSlNuM3RHWUdqcmt5Y2RSZC1iVmZIZ0NyMW1ZSmdDTUwzWV9tTWVJT3FRN016NmNqRnRUbV9GWXJuaUZDbG1aVVc4cG05MTJxZnhiX2xfMjJ5QkQzTjJlWXk0WU9ieDJjeHVxODl1T3Rtb3o5MjMwTHlGMzg2NzV4QkhsR0MyX1JmMjlvWElzSUh3R2djdFcyN29IR3NFUFptemhYaUhDSGtaSG43aWpqbmtB?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T07:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Unknown non-Bay Area locale.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "committee authorizes nh dot agreement for transportation heritage trail phase 2 pathways pledges local match": {
+    "title": "Committee authorizes NH DOT agreement for Transportation Heritage Trail phase 2; Pathways pledges local match - Citizen Portal AI",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVWE0OFZjVkhKdGFTOGh1M0duWkJzNW1DZk9yTkF5Z1NnSHRMRWZVWXM0X0VZTHUxNkcxZXBnQmdXWVBRVnpVdGV1RTYyZlJHRG1XUzFnNWdLb1VOSTEwMVgyNVVTbUhHLXdoRmlDdWh4bEhkZjZjRWNMckkyNHc4WHU2NXQ3MkdpU3JVY1FhYUFKZmJMSDB4NUtjRWotR1RyUzdJZUwtTkdGVzN2ckNxWVFHRnNHYzk1RFFMdWVMUnNKNFRfN1Rqc3dLT1pIeTF3b2ZQMVNlRHNIVGlENC1fT0pvSTRqZw?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T07:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "New Hampshire.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "monterey council accepts tamc funding for north fremont pedestrian lane": {
+    "title": "Monterey council accepts TAMC funding for North Fremont pedestrian lane - Monterey Herald",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRS1NYmtTMWZ3TVduZHNlV3ljWHJwVmVRWnQ2N04wV1lOTy02U0RsUGJ1LWtEMl8xSHVCM2Z6WlIwTWtwZGJkY2pweTdXVThacTViUjhPRW01d3U5cFV4UC1sRnA4NUJwSjA5WkdwMEdWVGwtVl83bFR5VFdEUkplVHlRbzNVU29VWXJaT0NXRVZ6Uld5QVlUU1JnNF9HTUtJUUR0VEp1VFpmWmtWR2JqdHdlaFQ?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T02:48:20.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Monterey, not Fremont.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
+    "covered": false
+  },
+  "brazos valley fair rodeo haunted trail 9 things to do in bryan college station oct 22 25": {
+    "title": "Brazos Valley Fair & Rodeo, haunted trail: 9 things to do in Bryan-College Station, Oct. 22-25 - Community Impact Newspaper",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjlhY19rVlQtcEhfRnNLRmhwcjFCSm1vdFlfYlpuRFpySHlfVUpjTC1BSTBwVklwcUtReEtrVER4cXNadjRTUnAzT1FJbzdxOGI3QVdBRm5pX2REMTdNUDBFWU1rd3I5WDNJN1dZTW1zSW5CMjd6ODlBYVZYckI5em5sWWRSWmdidDE1SGR3ay1qajhkbWxXZWNzb0hmazBaQlZILUFMU2lWWndSeGtkcHRBdmlOR0g1Ums3M1VxcEhBZXVha3J0bGFfZl9LcDBKUWxPWWZmSVRVX1NieDY4?oc=5",
+    "source": "Google News",
+    "published": "2026-10-22T00:20:17.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Texas events.",
+    "firstSeen": "2026-10-25T15:13:02.372Z",
     "covered": false
   }
 }
