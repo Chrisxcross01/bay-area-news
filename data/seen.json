@@ -15958,7 +15958,7 @@
     "importance": 7,
     "reason": "Bay Area gas water heater ban affects homeowners.",
     "firstSeen": "2026-11-06T15:32:48.424Z",
-    "covered": false
+    "covered": "2026-11-08T15:26:12.583Z"
   },
   "campbell city council candidates furtado fields outpace challengers": {
     "title": "Campbell City Council candidates Furtado, Fields outpace challengers",
@@ -16871,7 +16871,7 @@
     "importance": 5,
     "reason": "Condo defect law reform affects condo supply.",
     "firstSeen": "2026-11-07T15:23:57.732Z",
-    "covered": false
+    "covered": "2026-11-08T15:26:12.583Z"
   },
   "phased redevelopment set to transform san jose s cambrian park village into mixed use hub": {
     "title": "Phased redevelopment set to transform San Jose’s Cambrian Park Village into mixed-use hub - The Mercury News",
@@ -16937,7 +16937,7 @@
     "importance": 6,
     "reason": "Results of 14 state propositions, possibly housing/tax.",
     "firstSeen": "2026-11-07T15:23:57.732Z",
-    "covered": false
+    "covered": "2026-11-08T15:26:12.583Z"
   },
   "rundown 2026 contra costa county election results": {
     "title": "Rundown: 2026 Contra Costa County Election Results - Contra Costa News",
@@ -17069,6 +17069,314 @@
     "importance": 6,
     "reason": "Santa Clara County results incl. local measures.",
     "firstSeen": "2026-11-07T15:23:57.732Z",
+    "covered": false
+  },
+  "firefighters extinguish vehicle fire at morgan hill high school": {
+    "title": "Firefighters extinguish vehicle fire at Morgan Hill high school",
+    "link": "https://localnewsmatters.org/2026/11/08/firefighters-extinguish-vehicle-fire-at-morgan-hill-high-school/",
+    "source": "Thomas Hughes, Bay City News",
+    "published": "2026-11-08T15:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Vehicle fire incident, no housing relevance.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "foundation work underway on 21 story alida residences and tribute portfolio hotel in downtown west palm beach": {
+    "title": "Foundation Work Underway On 21-Story Alida Residences And Tribute Portfolio Hotel In Downtown West Palm Beach - Florida YIMBY",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLXpJVUJFMm0xdEtnR0pRNXFKVWkweG5VaVlTTF94R2dxZVpDanhjbDFBSkFsVG9ydThuSFJUbGNzdjNwWk5FbXV2VXNwSThNMmUtOUM1dFprYU9ydTVpQV9fRjNFZDhSdVF3ODVhMlA1Sk8yQS0yaHFEQXJYb2VFOHB2SnV2R0ZJZXRZUjFwV1pSMDQ4bFQ1bHJuS25ILUU1TEZ5SFBtcVNhTEhMTzVBdVo0TmJLd0NSRGFITkdMUk4xa1RzLUw0WTUzOW5EQ2h2NlJmY0Rha0pJRTVVbVNnSA?oc=5",
+    "source": "Google News",
+    "published": "2026-11-08T13:00:40.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Florida development, not Bay Area.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "east palo alto s 125m civic center bond council term limits headed for passage": {
+    "title": "East Palo Alto’s $125M civic center bond, council term limits headed for passage",
+    "link": "https://localnewsmatters.org/2026/11/08/east-palo-altos-125m-civic-center-bond-council-term-limits-headed-for-passage/",
+    "source": "Alise Maripuu, Bay City News",
+    "published": "2026-11-08T11:00:00.000Z",
+    "category": "local_policy",
+    "importance": 6,
+    "reason": "East Palo Alto $125M civic center bond passing affects local taxes and development.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "detroit lions hc dan campbell details defensive improvements full circle moment ahead of dolphins game": {
+    "title": "Detroit Lions HC Dan Campbell details defensive improvements, full-circle moment ahead of Dolphins game - ClickOnDetroit | WDIV Local 4",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcVJOU2RFV1NvOUtRZmM2Vi1YeDdHcTB5cDlvTXRzN0dfMmhfUUFfNkY4R2VCREdmS1JpWmNJbll1cWdLWTRXYUZ6Y2ktcjMycU9PM3o2Uy1haGJhNTNtenQ3TWRtOF9CdjVkV3ZYa05lWEc5N3JFVl9zcnptZnRhVVJIbkEyNldOVlVHek05UEE4UlVSWDRvSWgyZFYtOFY5R0huNjBIdEFsRXlYLUtHQXpIMWtXSW1oODl2VXE4NlkzNU1jYW03ZGVQMUlqZ3RfMnNvN3VLbTliTEJpaVZqQ1dOYjltaG8?oc=5",
+    "source": "Google News",
+    "published": "2026-11-08T10:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports news.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "caltrain says ridership surges as bay area sports fans turn to rail": {
+    "title": "Caltrain says ridership surges as Bay Area sports fans turn to rail",
+    "link": "https://localnewsmatters.org/2026/11/07/caltrain-says-ridership-surges-as-bay-area-sports-fans-turn-to-rail/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-08T06:00:00.000Z",
+    "category": "development",
+    "importance": 3,
+    "reason": "Caltrain ridership update, minor transit angle.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "faster responses seen in redrawn san jose police districts taking effect sunday": {
+    "title": "Faster responses seen in redrawn San Jose police districts taking effect Sunday",
+    "link": "https://localnewsmatters.org/2026/11/07/faster-responses-seen-in-redrawn-san-jose-police-districts-taking-effect-sunday/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-08T05:01:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "San Jose police district redesign, indirect neighborhood relevance.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "coastal flood advisory extended throughout week as extra high tides forecast": {
+    "title": "Coastal flood advisory extended throughout week as extra-high tides forecast",
+    "link": "https://localnewsmatters.org/2026/11/07/coastal-flood-advisory-extended-throughout-week-as-extra-high-tides-forecast/",
+    "source": "Thomas Hughes, Bay City News",
+    "published": "2026-11-08T04:00:00.000Z",
+    "category": "other",
+    "importance": 3,
+    "reason": "Coastal flood advisory may concern bayside homeowners.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "man arrested in kidnapping and killing of sikh man in tracy": {
+    "title": "Man arrested in kidnapping and killing of Sikh man in Tracy",
+    "link": "https://localnewsmatters.org/2026/11/07/man-arrested-in-kidnapping-and-killing-of-sikh-man-in-tracy/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-08T03:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news outside core area.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "cops arrest woman tagged in fraud involving san francisco multimillion dollar home": {
+    "title": "Cops arrest woman tagged in fraud involving San Francisco multimillion-dollar home",
+    "link": "https://localnewsmatters.org/2026/11/07/cops-arrest-woman-tagged-in-fraud-involving-san-francisco-multimillion-dollar-home/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-08T02:07:00.000Z",
+    "category": "other",
+    "importance": 3,
+    "reason": "Home title fraud case in SF, cautionary for homeowners.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "millbrae man gets 5 years for child sex abuse material on telegram": {
+    "title": "Millbrae man gets 5 years for child sex abuse material on Telegram",
+    "link": "https://localnewsmatters.org/2026/11/07/millbrae-man-gets-5-years-for-child-sex-abuse-material-on-telegram/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-08T01:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "newcomer david poll pulls ahead of brandon stroy in los altos school board race": {
+    "title": "Newcomer David Poll pulls ahead of Brandon Stroy in Los Altos school board race - Mountain View Voice",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3FnSzVOTFZBLUNuU0RUc1g1UUZKWUMwUUp2V2JEMW5EcF9ubG12MG1EbDJPaXJ5TnZfRTFPZWZLTmlmRVRDOUFSSllPZHloS2hkek16VUVWQWhGS2dRZlNqZk5jelBXTi05UEFKUkJibDdNRFNYUHlUdHpvSVdhNDNXQTVBd3JDSWx4anRYcEtyZTFCRUNObHV3aDBHSlI0X0dSSHlSMDI2U3RfM0tGcnYtU05NZFlEaElWRFlZWi1ZS28?oc=5",
+    "source": "Google News",
+    "published": "2026-11-08T00:17:14.000Z",
+    "category": "schools",
+    "importance": 5,
+    "reason": "Los Altos school board race results.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "bay area gas water heater ban delayed until 2028 but opponents want mandate scrapped": {
+    "title": "Bay Area gas water heater ban delayed until 2028, but opponents want mandate scrapped",
+    "link": "https://localnewsmatters.org/2026/11/07/bay-area-gas-water-heater-ban-delayed-until-2028-but-opponents-want-mandate-scrapped/",
+    "source": "Keith Menconi, San Jose Spotlight",
+    "published": "2026-11-08T00:00:00.000Z",
+    "category": "law",
+    "importance": 8,
+    "reason": "Bay Area gas water heater ban delayed to 2028, affects homeowners.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": "2026-11-08T15:26:12.583Z"
+  },
+  "gilroy hotel tax increase will generate thousands of dollars": {
+    "title": "Gilroy hotel tax increase will generate thousands of dollars - San José Spotlight",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzJyeHNqSzFvMGlCMUJzak1ZaFRjYVE3RXZwdDBLUF9tOWRZalNORzh3LUloZkY4Yk5lSEdJUVpQUjdPYWZvdFhHYl9qS3pyZGR0YkdYZEhMeV9NMDZGZzNiY1BlYkttemtaWS1hZXFsOFF5dk54UmJDTGJHMEdxRC01WW80dzFDRHhRTnE0RWZNeTZ6?oc=5",
+    "source": "Google News",
+    "published": "2026-11-07T16:37:04.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Gilroy hotel tax, not homeowner tax.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "the least controversial item on november s ballot a little known term limits measure": {
+    "title": "The least controversial item on November’s ballot? A little-known term limits measure",
+    "link": "https://www.mv-voice.com/election/2026/11/07/term-limits-measure-s-el-camino-health/",
+    "source": "Christina Casillas",
+    "published": "2026-11-07T16:30:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Santa Clara County term limits measure, minor.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "san mateo county election tallies shift in tight local races": {
+    "title": "San Mateo County election tallies shift in tight local races - San Mateo Daily Journal",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT0dzRXFiVFdTMVVXRDZpOUVxamJSRjk2NHoyZ2ktYWs2LTV5NWhnQmZyeFlhRTk3ZFZidWpJNFRDcXBxd2dXVmJMbktDbG1yVkxlZXluX0w2Nlduek1sMVRSYXhjNGdDb0ZpeFB3Q1N3SHFwQ3lZVXBGYUxMckhEWXVaWFpaS3hfY0JVRGZnVHhkQkwyYXVpTk9GRXhMQjZJelY0WDRmeXdQTTA2WXVuc3BhOGlzZU1jOHZwMGdQZEd4RUxPcldvWTRsZUdJcW11aEpqc05FQlk0Ym9WR3pQZlNwZ04tc1E?oc=5",
+    "source": "Google News",
+    "published": "2026-11-07T12:15:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "San Mateo County election tallies.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "683 epic way san jose ca 95134": {
+    "title": "683 Epic Way, San Jose, CA 95134 - Realtor.com",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDNOY0VxVktuSjl5TUFzRzJ3SVZVS1RUWE53N003ZTNxX19iY1V6ek1Zci11cVhIbndpQkxpRFA1SEVVSDRELWZhV0ZFMmdNelQwNDViYzZteXR0TE0xXzBrVWZzeEdBblhJMlo0XzhRSXpvWTdMcW9JWXNPWlZhRjNXa2V3RHozY2pB?oc=5",
+    "source": "Google News",
+    "published": "2026-11-06T23:08:55.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Single listing advertisement.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "onondaga county approves property tax exemption for disabled veterans": {
+    "title": "Onondaga County approves property tax exemption for disabled veterans - Syracuse.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWhoVDdXYi1kREVoRlFJUUZXa0tObUJ2Y3VmOXhkTnV2WkdzamZqUG5RTnN3WWFCZHJUMlV3QlpMYy13VmhzV04xdEdWLTBabUlrSmo3V2tJRWdkQnJqODN5c0Y4MlhOUkNzcUtfWVE5U0VMbHpaUm9jUjRMamNCRWY1X1R5OXo0eEtrVmhiMDNEM3pHaUtKMzRpMWRCdTZpVkVLUnZZeVRidzIxRmFyeEJB?oc=5",
+    "source": "Google News",
+    "published": "2026-11-06T18:59:00.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "New York county tax news.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "pillen eyes 2028 ballot if nebraska lawmakers again stall on property tax reform": {
+    "title": "Pillen eyes 2028 ballot if Nebraska lawmakers again stall on property tax reform - News From The States",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEwwX0ZjaHc2TlhQZExvQk9nTWx0V1d4WXVhdWNFX2prWWlRRkFYTHR3cGVwQ3F2V0RwM3ZURmVtSFJ2Y3FJWWRxV2tnRmZzOVRlRVVwTHFNU25JTVg0YV9yR1hQZU1JV0NaanJPeVZRLVhjVTZsdTByNUQzcHY4U29JTkh4VDBfSk55Y1QtMUllX3djcWFrLVdOM0xZMlRrb2Y3MzBrRndST1lqSGpjdGxKQ1hneTc1ZkxJ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-06T18:46:08.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Nebraska tax news.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "seven equity s pitch for sf centre mall is to tear it down": {
+    "title": "Seven Equity’s pitch for SF Centre Mall is to tear it down - The San Francisco Standard",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVJaM3F6OW9uWlJGWFQxMlU0elRISHR5bEtMaG90a2x5Q0FCSGpxcFgzbHVpajctVmR5QkRkYkRieXd4bVZGSEdjSGtSVEgyQkxDeUFSSkhScWlaelE0eUU0Y0xqdTlEbnVoaF9jQmN0amZ0eFlob2JHVEZFOU1fNmw0YWFLMDVZUXB5RmlUeGk?oc=5",
+    "source": "Google News",
+    "published": "2026-11-05T23:36:10.000Z",
+    "category": "development",
+    "importance": 5,
+    "reason": "SF Centre Mall teardown proposal, outside core counties.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "2027 state tax competitiveness index full report": {
+    "title": "2027 State Tax Competitiveness Index | Full Report - Tax Foundation",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONXVEVjcxTExxTkNqVUo5Vkh1ckJtNzJCbDVtWm9KZGMwdmN5R0lfTW13ZUQzNHhuTW5nbFUtR21tdmg4QWxPTmRKSVFFWVM1TjlkaXhOTW9nZ1l1d3RRUE9SbWo5ZnI2aW11TEtlYjNwdDI1VU1yQnBBS2o0QXVnTXRwc0pVZ3ZXOEE?oc=5",
+    "source": "Google News",
+    "published": "2026-11-05T15:27:37.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "National tax index report.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "2026 midterm election results deliver a split verdict on taxes": {
+    "title": "2026 Midterm Election Results Deliver a Split Verdict on Taxes - Kiplinger",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0d2b2xkNFhYTk9OQ0QtTnZDYUZVSEVtcVB4SjlkeWlpQ2FBYkRFV2ZHcURjbHZMbEVtclc5LTNWWFliVUprNU5UbGNIa0Rjb2JmUFphYTRjZ0JGelZiR3hrdlRjZ1lzQjFtdHExWjVqMXFiWlVWS1Y4UTJKODM3ZTRNeHVCSF9TOGpDdEFveUJGMFVHdFpn?oc=5",
+    "source": "Google News",
+    "published": "2026-11-05T14:17:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "National election tax overview.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "who is behind santa barbara s shocking high rise projects": {
+    "title": "Who Is Behind Santa Barbara’s Shocking High-Rise Projects? - The Santa Barbara Independent",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVnlHTF83SGpNN2ZvUmZ3RGRDU2RodVBkNVJNNkhjSk1JQmdVaGJwSWFIdk5RdUZuZFF6Sl9SUWF0MGJVcF9zZWNJc243M24wUUwwYV9tcjZhZUVXdDhmS1pDaGtiQ3NUNDgxRnBJMHdZV2FyczBIeFRmWWh0bVd2UUM2a21ETkhJMXAzYVVtLWVNUFI4QjUybGFwZnk?oc=5",
+    "source": "Google News",
+    "published": "2026-11-05T04:01:45.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Santa Barbara development.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "u s midterm ballot measures prioritize relief and new spending": {
+    "title": "U.S. Midterm Ballot Measures Prioritize Relief And New Spending - S&P Global",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzF0ZGw0RTZwTTc5Uk9seHJQOFFFLTNMclFhdlJYVURTUGRtV0RPYTdjbWNKdXNGUXRWakRaUnN4LUVMT05HMG9jbVJhVm4tWGd1c2RCZ1htd3FDVUM4QkFlSnVFQWtoSzZsSS11ZU5iV0d4MlhpN3RRX0FhajlsdldPdXloNzN6Z0x3TFN1RnFuZjBpQlhFQ00xSEJKdHNqbktNMGlXeGFZYV91SWRYakZlUUFPZHJvNFpOR04yT2VXeTR6T1E?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T16:31:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "National ballot measures overview.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "juslyn manalo leads mark nagales in san mateo county district 5 race": {
+    "title": "Juslyn Manalo leads Mark Nagales in San Mateo County District 5 race - San Mateo Daily Journal",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa0Q5LUV1ZXpGSHdudFl2Zmx5dy1wYTBoMm01c05xN2V2SXZGZHBhSERTRnBOQ2x5YThISlIxY2dQcUZqa2paRWptOTk4aGpvZWctdEF3WEpJcmNYRk5SdEU4cWFIbDVwYy1OVFRTd0tjMEpxVy1IOVR1Wll4U21NUWRqTHZtT0dhcnRQd2NINDg4LWZDOEdfNmMtcExISU9NT3BhbnkycWVnY1diQVREU3NfRGROMVU3NkhoU1VuX2RpU0dMVTFZc0Yzb0ttZkxGZG9ISW4zc0FkaGItakI5R3pmZEFLd1l1T3FNdTU0a0tUQQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T12:30:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "San Mateo County supervisor race.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "florida voters approve amendment 3 providing property tax relief for homeowners": {
+    "title": "Florida voters approve Amendment 3, providing property tax relief for homeowners - Bay News 9",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQW9fQXZnU3lKcy1jbVlUa2hub0o4X1MzRTByUjVYVHJoWi11SGNwbWlaVFpZTi10YmFURUlweWc4dmtZejhNTVFWc2xLbi1xOEJQYkhMV2ZSaFFJOEtKVlN5VnpiWGN1UFk5bXVLZVdiWFNsNHdqc0RfZGM0azR5WWVGdnZpZURReWM2UkNWOXNlbklrU0Y5Z09RYXZlVEFfSHk0Q01fdm5GV1VHZzduMlJubnlMN296RVQyY2h6UkxKQQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T09:09:00.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Florida property tax.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "council approves 340 000 amendment for downtown paving and harrison avenue signals": {
+    "title": "Council approves $340,000 amendment for downtown paving and Harrison Avenue signals - Citizen Portal AI",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2k4OWR3VFNsc0t1VzJFN3JiR3RweC1jNF9hdi1CYjI0YkVBXzc3dEdYSzFDWFdYcGFqejZkQkxlT3lZRkNMOC1pNkpzZ0ZiVDllanRWQWtiaWNVem9Hb2steU45eUYtazRTTUNCM2JYa3F0azBIQTdaRDRlM0FJOXJZdHhiZmlUVHFYbWZnTjlHTGNlczExd0E5ZGJnQ29iWEdwRi1mcDdsRE4wNUEzWkFJSUtvY3dyMjlZVHVhSGU4QQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T08:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Unclear location small paving contract.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "election results 2026": {
+    "title": "Election Results 2026 - Mountain View Voice",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uRGxyMkxKNEc2U2ZrOWt5Y0FjV0ZVdlVSSnUxUWZ4aDBFaGdzMmU1bDVHVHNZWU14XzMyOTl0QU9yZUxrZ0Q2TVBzcVJRemRkN1ZKT3M2TFpGbkE?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T04:52:47.000Z",
+    "category": "local_policy",
+    "importance": 4,
+    "reason": "Mountain View area election results may include local measures.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
+    "covered": false
+  },
+  "tennessee approves property tax prohibition": {
+    "title": "Tennessee Approves Property Tax Prohibition - Americans for Tax Reform",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JZkRmUFVROXRWMnJJZ1ZHV2xrZ0Y2QkN2ZzhGWElNS0dlVnJic0JyVzRJMGRoNUdWQV9sekJfaDVsMi1CNGU1SjJTQTFrMGZSRTloREZQV25kMi00ZHZFb01qVmVIdUpVUkdUbQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-04T03:58:09.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Tennessee tax news.",
+    "firstSeen": "2026-11-08T15:23:10.566Z",
     "covered": false
   }
 }
