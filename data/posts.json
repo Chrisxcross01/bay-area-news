@@ -134,7 +134,8 @@
       "Real Estate Laws",
       "Local Housing Policy"
     ],
-    "date": "2026-11-02T15:46:59.978Z"
+    "date": "2026-11-02T15:46:59.978Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-03-bart-picks-developers-for-643-homes-on-fremont-station-parking-lots",
@@ -145,7 +146,8 @@
       "Real Estate News",
       "New Developments"
     ],
-    "date": "2026-11-03T15:32:54.454Z"
+    "date": "2026-11-03T15:32:54.454Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-04-gilroy-unified-s-295m-measure-m-school-bond-trails-55-mark-in-early-re",
@@ -156,7 +158,8 @@
       "Real Estate News",
       "School Districts"
     ],
-    "date": "2026-11-04T15:43:10.225Z"
+    "date": "2026-11-04T15:43:10.225Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-05-bay-area-air-district-delays-gas-water-heater-rule-to-2028-and-adds-ex",
@@ -167,7 +170,19 @@
       "Real Estate News",
       "Real Estate Laws"
     ],
-    "date": "2026-11-05T15:46:13.109Z"
+    "date": "2026-11-05T15:46:13.109Z",
+    "image": {
+      "file": "images/2026-11-05-bay-area-air-district-delays-gas-water-heater-rule-to-2028-and-adds-ex.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/Chrisxcross01/bay-area-news@main/docs/images/2026-11-05-bay-area-air-district-delays-gas-water-heater-rule-to-2028-and-adds-ex.jpg",
+      "alt": "Wide view of San Jose's downtown skyline beyond tree-filled residential neighborhoods and a freeway",
+      "why": "Shows Bay Area homes and neighborhoods affected by the regional water heater rule, without misleading place-specific subjects.",
+      "title": "USA-San Jose-Downtown-1.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:USA-San_Jose-Downtown-1.jpg",
+      "author": "Eugene Zelenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "query": "Downtown San Jose"
+    }
   },
   {
     "slug": "2026-11-06-measure-n-the-los-gatos-saratoga-high-school-bond-is-just-short-of-55-",
@@ -178,7 +193,8 @@
       "Real Estate News",
       "School Districts"
     ],
-    "date": "2026-11-06T15:34:15.904Z"
+    "date": "2026-11-06T15:34:15.904Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-07-palo-alto-s-390-home-cal-ave-tower-plan-where-it-stands-after-the-4-2-",
@@ -189,7 +205,8 @@
       "Real Estate News",
       "New Developments"
     ],
-    "date": "2026-11-07T15:25:40.159Z"
+    "date": "2026-11-07T15:25:40.159Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-08-bay-area-gas-water-heater-rule-delayed-to-2028-with-new-exemptions-for",
@@ -200,7 +217,8 @@
       "Real Estate News",
       "Real Estate Laws"
     ],
-    "date": "2026-11-08T15:26:12.583Z"
+    "date": "2026-11-08T15:26:12.583Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-09-great-america-to-close-after-2027-what-it-means-for-santa-clara-real-e",
@@ -213,7 +231,8 @@
       "Property Taxes",
       "School Districts"
     ],
-    "date": "2026-11-09T15:48:11.663Z"
+    "date": "2026-11-09T15:48:11.663Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-10-centerville-plaza-breaks-ground-290-affordable-apartments-coming-to-fr",
@@ -224,7 +243,8 @@
       "Real Estate News",
       "New Developments"
     ],
-    "date": "2026-11-10T15:33:56.781Z"
+    "date": "2026-11-10T15:33:56.781Z",
+    "imageNone": "2026-11-13"
   },
   {
     "slug": "2026-11-11-palo-alto-s-measure-j-cubberley-sales-tax-holds-narrow-lead-what-it-wo",
@@ -235,7 +255,19 @@
       "Real Estate News",
       "New Developments"
     ],
-    "date": "2026-11-11T15:36:32.002Z"
+    "date": "2026-11-11T15:36:32.002Z",
+    "image": {
+      "file": "images/2026-11-11-palo-alto-s-measure-j-cubberley-sales-tax-holds-narrow-lead-what-it-wo.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/Chrisxcross01/bay-area-news@main/docs/images/2026-11-11-palo-alto-s-measure-j-cubberley-sales-tax-holds-narrow-lead-what-it-wo.jpg",
+      "alt": "Palo Alto City Hall's white-columned facade seen through magnolia trees in a sunny plaza",
+      "why": "With no Cubberley photo available, Palo Alto City Hall represents the city behind the Measure J sales tax without showing a different named place.",
+      "title": "Palo Alto California City hall.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Palo_Alto_California_City_hall.jpg",
+      "author": "Tomwsulcer",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "query": "Palo Alto City Hall"
+    }
   },
   {
     "slug": "2026-11-12-palo-alto-unified-plans-to-ask-voters-again-for-a-school-parcel-tax-in",
@@ -246,7 +278,19 @@
       "Real Estate News",
       "School Districts"
     ],
-    "date": "2026-11-12T15:46:29.338Z"
+    "date": "2026-11-12T15:46:29.338Z",
+    "image": {
+      "file": "images/2026-11-12-palo-alto-unified-plans-to-ask-voters-again-for-a-school-parcel-tax-in.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/Chrisxcross01/bay-area-news@main/docs/images/2026-11-12-palo-alto-unified-plans-to-ask-voters-again-for-a-school-parcel-tax-in.jpg",
+      "alt": "Henry M. Gunn High School building and stone entrance sign on a green lawn under oak trees in Palo Alto",
+      "why": "Shows a PAUSD high school clearly in good light, directly tied to the district's parcel tax story.",
+      "title": "Gunn High School May 2011.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gunn_High_School_May_2011.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "query": "Gunn High School Palo Alto"
+    }
   },
   {
     "slug": "2026-11-13-bay-area-transit-sales-tax-passes-what-changes-in-san-jose-and-the-sou",
@@ -257,6 +301,18 @@
       "Real Estate News",
       "New Developments"
     ],
-    "date": "2026-11-13T15:35:27.888Z"
+    "date": "2026-11-13T15:35:27.888Z",
+    "image": {
+      "file": "images/2026-11-13-bay-area-transit-sales-tax-passes-what-changes-in-san-jose-and-the-sou.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/Chrisxcross01/bay-area-news@main/docs/images/2026-11-13-bay-area-transit-sales-tax-passes-what-changes-in-san-jose-and-the-sou.jpg",
+      "alt": "VTA light rail train arriving at San Jose Diridon station with Caltrain double-deck cars in the background",
+      "why": "It shows San Jose transit at Diridon station, with both VTA light rail and Caltrain, which ties directly to a transit sales tax story about San Jose and the South Bay.",
+      "title": "Caltrain and VTA at San Jose Diridon.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Caltrain_and_VTA_at_San_Jose_Diridon.jpg",
+      "author": "SaarPro",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "query": "VTA light rail San Jose"
+    }
   }
 ]
