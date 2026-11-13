@@ -6,6 +6,22 @@ const UA = "BayAreaNewsImages/1.0 (news blog cover photo picker)";
 const OK_LICENSE = /^(cc0|public domain|pd\b|cc[ -]by(-sa)?[ -]\d(\.\d)?)/i;
 const SKIP_TITLE = /\b(map|maps|logo|seal|flag|diagram|chart|graph|screenshot|icon|coat of arms|locator|poster|ballot)\b/i;
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// Wikimedia limits bursts ("429 Too Many Requests"): space requests out and back off when told to.
+let lastRequest = 0;
+async function politeFetch(url) {
+  for (let attempt = 1; ; attempt++) {
+    const wait = lastRequest + 1500 - Date.now();
+    if (wait > 0) await sleep(wait);
+    lastRequest = Date.now();
+    const res = await fetch(url, { headers: { "User-Agent": UA } });
+    if ((res.status !== 429 && res.status !== 503) || attempt === 4) return res;
+    const retryAfter = Number(res.headers.get("retry-after")) || 10 * attempt;
+    await sleep(Math.min(60, retryAfter) * 1000);
+  }
+}
+
 const strip = (s) => String(s ?? "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 
 // Landscape photos at least 1,000 px wide, without extreme panoramas or banners.
@@ -16,7 +32,7 @@ export async function searchCommons(query, { limit = 15, width = 1280 } = {}) {
     prop: "imageinfo", iiprop: "url|size|mime|extmetadata", iiurlwidth: String(width),
     iiextmetadatafilter: "LicenseShortName|LicenseUrl|Artist|Credit|ImageDescription|Restrictions",
   });
-  const res = await fetch(`${API}?${params}`, { headers: { "User-Agent": UA } });
+  const res = await politeFetch(`${API}?${params}`);
   if (!res.ok) throw new Error(`Commons search failed (${res.status})`);
   const pages = (await res.json()).query?.pages ?? [];
   return pages
@@ -40,7 +56,7 @@ export async function searchCommons(query, { limit = 15, width = 1280 } = {}) {
 }
 
 export async function download(url) {
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
+  const res = await politeFetch(url);
   if (!res.ok) throw new Error(`Photo download failed (${res.status})`);
   return Buffer.from(await res.arrayBuffer());
 }

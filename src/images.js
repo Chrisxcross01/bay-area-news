@@ -19,10 +19,13 @@ const esc = (s) =>
 export async function findImage(article, slug) {
   const queries = await imageQueries(article);
   const candidates = [];
+  let searched = 0;
+  let downloadErrors = 0;
   for (const query of queries) {
     let found = [];
     try {
       found = await searchCommons(query);
+      searched++;
     } catch (err) {
       console.log(`  Photo search "${query}" failed: ${err.message}`);
     }
@@ -30,10 +33,15 @@ export async function findImage(article, slug) {
       try {
         candidates.push({ ...c, query, bytes: await download(c.thumb) });
       } catch (err) {
+        downloadErrors++;
         console.log(`  Skipped ${c.title}: ${err.message}`);
       }
     }
     if (candidates.length >= MAX_CANDIDATES) break;
+  }
+  // Wikimedia errors are not "no photo fits": throw, so the post is tried again on a later run.
+  if (searched === 0 || (candidates.length === 0 && downloadErrors > 0)) {
+    throw new Error("Wikimedia Commons didn't answer; will try again next run");
   }
   if (candidates.length === 0) return null;
 
