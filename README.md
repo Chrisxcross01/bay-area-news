@@ -37,6 +37,17 @@ Every day at about 8 AM Pacific, GitHub runs `src/run.js`:
    **Draft** for the first few weeks (review and publish each post in Lofty), then switch
    it to **Published** once you trust the articles.
 
+## Cover photos
+
+Lofty's RSS Aggregator uses the first image in an article as the post's featured image; with
+none, it filled in generic stock photos. Each new article now starts with a free-to-use photo
+from Wikimedia Commons that shows the place or subject of the story (`src/images.js`): Claude
+suggests searches, looks at up to 8 candidates and picks one (or none). The photo is saved in
+`docs/images/`, served through jsDelivr, and credited at the end of the article as its license
+requires (public domain, CC0, CC BY or CC BY-SA only). Each run also finds photos for recent
+posts that don't have one; those are recorded in `data/posts.json` (`image`) for the News Editor
+to put on the Lofty post and its Google post.
+
 ## Changing things
 
 - **Topics and sources:** edit the searches in `src/config.js` (`GOOGLE_NEWS_QUERIES`, `SOURCES`).

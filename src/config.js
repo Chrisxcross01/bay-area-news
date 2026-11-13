@@ -22,6 +22,13 @@ export const FEED_BASE_URL =
     ? `https://${process.env.GITHUB_REPOSITORY.split("/")[0].toLowerCase()}.github.io/${process.env.GITHUB_REPOSITORY.split("/")[1]}`
     : "http://localhost");
 
+// Cover photos are served through jsDelivr, like the feed (Lofty's firewall blocks github.io).
+export const IMAGE_BASE_URL =
+  process.env.IMAGE_BASE_URL ||
+  (process.env.GITHUB_REPOSITORY
+    ? `https://cdn.jsdelivr.net/gh/${process.env.GITHUB_REPOSITORY}@main/docs`
+    : "http://localhost");
+
 export const MODEL = "claude-opus-5-5";
 
 // Publishing rules.

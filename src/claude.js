@@ -1,4 +1,4 @@
-// The two Claude steps: scoring headlines, then researching and writing an article.
+// The Claude steps: scoring headlines, researching and writing an article, and picking its cover photo.
 import Anthropic from "@anthropic-ai/sdk";
 import { MODEL, SITE } from "./config.js";
 
@@ -180,4 +180,91 @@ export function writeWeekly(items, weekLabel) {
 
 export function writeUrgent(item, related) {
   return runWriter(urgentPrompt(item, related));
+}
+
+// ---------- Step 3: cover photo (Chris, Nov 13, 2026) ----------
+// Lofty uses the article's first image as the post's featured image; without one it showed
+// generic stock photos. These two calls choose a matching free-to-use photo (see images.js).
+
+const QUERY_SCHEMA = {
+  type: "object",
+  properties: { queries: { type: "array", items: { type: "string" } } },
+  required: ["queries"],
+  additionalProperties: false,
+};
+
+const QUERY_INSTRUCTIONS = `You choose Wikimedia Commons search terms to find the cover photo for a Bay Area real estate news article. Give 4 searches of 2-5 words each, most specific first:
+1. The exact place, building, project, school, park or landmark the story is about (for example "California's Great America", "Los Gatos High School", "Fremont BART station").
+2. The neighborhood or city it happens in, as a place people photograph (for example "Downtown Palo Alto", "San Jose City Hall").
+3. A scene that shows the topic in that area (for example "BART train", "Caltrain Mountain View", "apartment construction San Jose").
+4. A broader fallback for the topic (for example "California State Capitol" for a state law, "houses Santa Clara County" for market news).
+No dates, no people's names, and no words like "news", "photo" or "image".`;
+
+const PICK_SCHEMA = {
+  type: "object",
+  properties: { index: { type: "integer" }, alt: { type: "string" }, reason: { type: "string" } },
+  required: ["index", "alt", "reason"],
+  additionalProperties: false,
+};
+
+const PICK_INSTRUCTIONS = `You pick the cover photo for a local real estate news article on a Realtor's blog. Readers should see at a glance what the story is about.
+
+Choose the candidate that best shows the story's subject: the actual place, building, project, school or landmark it names; failing that, the city or neighborhood involved, or a scene tied directly to the topic (a BART train for a transit tax, homes under construction for a housing project).
+
+Never choose:
+- a photo of a different named place than the story's, which would mislead readers;
+- a photo whose main subject is identifiable people;
+- maps, logos, charts, documents or photos with a lot of text;
+- blurry, dark, tilted or badly framed photos;
+- anything that could read as fear-selling (disasters, crime scenes, protests).
+
+Return index -1 if no candidate fits. alt: a plain description of what the photo shows, under 120 characters. reason: one short sentence on why it fits.`;
+
+const articleText = (article) => article.html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").slice(0, 4000);
+
+function readJson(response, step) {
+  if (response.stop_reason === "refusal") {
+    throw new Error(`${step} was declined (${response.stop_details?.category ?? "no category"}).`);
+  }
+  if (response.stop_reason === "max_tokens") throw new Error(`${step} output was cut off.`);
+  return JSON.parse(response.content.filter((b) => b.type === "text").map((b) => b.text).join(""));
+}
+
+export async function imageQueries(article) {
+  const response = await client.beta.messages.create({
+    model: MODEL,
+    max_tokens: 4000,
+    betas: ["server-side-fallback-2026-07-01"],
+    fallbacks: "default",
+    output_config: { effort: "low", format: { type: "json_schema", schema: QUERY_SCHEMA } },
+    system: QUERY_INSTRUCTIONS,
+    messages: [{ role: "user", content: `Title: ${article.title}\nSummary: ${article.summary}\n\n${articleText(article)}` }],
+  });
+  const { queries } = readJson(response, "Photo search");
+  return queries.map((q) => q.trim()).filter(Boolean).slice(0, 5);
+}
+
+export async function pickImage(article, candidates) {
+  const content = [
+    { type: "text", text: `Article title: ${article.title}\nSummary: ${article.summary}\n\nThe candidate photos follow, each after its label.` },
+  ];
+  candidates.forEach((c, i) => {
+    content.push({ type: "text", text: `Candidate ${i}: ${c.title}${c.description ? ` (${c.description})` : ""}` });
+    content.push({ type: "image", source: { type: "base64", media_type: c.mime, data: c.bytes.toString("base64") } });
+  });
+  const response = await client.beta.messages.create({
+    model: MODEL,
+    max_tokens: 4000,
+    betas: ["server-side-fallback-2026-07-01"],
+    fallbacks: "default",
+    output_config: { effort: "low", format: { type: "json_schema", schema: PICK_SCHEMA } },
+    system: PICK_INSTRUCTIONS,
+    messages: [{ role: "user", content }],
+  });
+  const pick = readJson(response, "Photo pick");
+  return {
+    index: Number.isInteger(pick.index) ? pick.index : -1,
+    alt: String(pick.alt).slice(0, 160),
+    reason: String(pick.reason).slice(0, 300),
+  };
 }

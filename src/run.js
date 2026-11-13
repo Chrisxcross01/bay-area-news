@@ -11,6 +11,7 @@ import { RULES, SITE } from "./config.js";
 import { collectCandidates } from "./collect.js";
 import { triage, writeWeekly, writeUrgent } from "./claude.js";
 import { writeFeed, footerHtml, slugify } from "./feed.js";
+import { findImage, imageHtml, creditHtml, backfillImages } from "./images.js";
 
 const args = Object.fromEntries(
   process.argv.slice(2).map((a) => {
@@ -42,15 +43,27 @@ function pruneSeen(seen) {
   }
 }
 
-function publish(posts, seen, article, coveredItems, categories) {
+async function publish(posts, seen, article, coveredItems, categories) {
   const date = new Date().toISOString();
+  const slug = slugify(article.title, date);
+  // A cover photo that matches the story; the article still publishes if none is found.
+  let image = null;
+  if (!DRY_RUN) {
+    try {
+      image = await findImage(article, slug);
+      console.log(image ? `Cover photo: ${image.title} (${image.license})` : "No matching cover photo found.");
+    } catch (err) {
+      console.log(`Cover photo step failed: ${err.message}`);
+    }
+  }
   const post = {
-    slug: slugify(article.title, date),
+    slug,
     title: article.title,
     summary: article.summary,
-    html: `${article.html}\n${footerHtml()}`,
+    html: `${image ? imageHtml(image) : ""}${article.html}\n${image ? creditHtml(image) : ""}${footerHtml()}`,
     categories: ["Real Estate News", ...categories],
     date,
+    ...(image ? { image } : {}),
   };
 
   if (DRY_RUN) {
@@ -86,6 +99,14 @@ async function main() {
   pruneSeen(seen);
   // Keep the published feed current even on days nothing new is written.
   if (!DRY_RUN && !args["collect-only"]) writeFeed(posts);
+  // Cover photos for recent posts that don't have one yet (Chris, Nov 13, 2026). Never blocks the news.
+  if (!DRY_RUN && !args["collect-only"] && process.env.ANTHROPIC_API_KEY) {
+    try {
+      if (await backfillImages(posts)) writeJson(POSTS_FILE, posts);
+    } catch (err) {
+      console.log(`Photo backfill failed: ${err.message}`);
+    }
+  }
 
   const today = localDate();
   const mode = args.mode && args.mode !== "auto" ? args.mode : today.weekday === RULES.weeklyDay ? "weekly" : "urgent";
@@ -135,7 +156,7 @@ async function main() {
     const weekLabel = new Date().toLocaleDateString("en-US", { timeZone: RULES.timezone, month: "long", day: "numeric", year: "numeric" });
     const article = await writeWeekly(picks, weekLabel);
     const categories = [...new Set(picks.map((p) => CATEGORY_LABELS[p.category]).filter(Boolean))];
-    publish(posts, seen, article, picks, categories);
+    await publish(posts, seen, article, picks, categories);
     return;
   }
 
@@ -152,7 +173,7 @@ async function main() {
   }
   const related = pool.filter((e) => e !== top && e.category === top.category).slice(0, 3);
   const article = await writeUrgent(top, related);
-  publish(posts, seen, article, [top, ...related], [CATEGORY_LABELS[top.category]].filter(Boolean));
+  await publish(posts, seen, article, [top, ...related], [CATEGORY_LABELS[top.category]].filter(Boolean));
 }
 
 main().then(
