@@ -249,7 +249,8 @@ export async function pickImage(article, candidates) {
     { type: "text", text: `Article title: ${article.title}\nSummary: ${article.summary}\n\nThe candidate photos follow, each after its label.` },
   ];
   candidates.forEach((c, i) => {
-    content.push({ type: "text", text: `Candidate ${i}: ${c.title}${c.description ? ` (${c.description})` : ""}` });
+    const note = c.used ? " [already the photo on another post: choose it only if nothing else fits]" : "";
+    content.push({ type: "text", text: `Candidate ${i}: ${c.title}${c.description ? ` (${c.description})` : ""}${note}` });
     content.push({ type: "image", source: { type: "base64", media_type: c.mime, data: c.bytes.toString("base64") } });
   });
   const response = await client.beta.messages.create({

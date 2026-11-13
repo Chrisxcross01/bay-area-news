@@ -50,7 +50,7 @@ async function publish(posts, seen, article, coveredItems, categories) {
   let image = null;
   if (!DRY_RUN) {
     try {
-      image = await findImage(article, slug);
+      image = await findImage(article, slug, new Set(posts.filter((p) => p.image).map((p) => p.image.title)));
       console.log(image ? `Cover photo: ${image.title} (${image.license})` : "No matching cover photo found.");
     } catch (err) {
       console.log(`Cover photo step failed: ${err.message}`);

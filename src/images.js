@@ -15,8 +15,9 @@ const MAX_CANDIDATES = 8;
 const esc = (s) =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-// Returns the saved photo's details, or null when no candidate fits the story.
-export async function findImage(article, slug) {
+// Returns the saved photo's details, or null when no candidate fits the story. `used` holds the
+// Commons titles already on other posts: those go last, so repeat stories get a different photo.
+export async function findImage(article, slug, used = new Set()) {
   const queries = await imageQueries(article);
   const candidates = [];
   let searched = 0;
@@ -29,9 +30,12 @@ export async function findImage(article, slug) {
     } catch (err) {
       console.log(`  Photo search "${query}" failed: ${err.message}`);
     }
-    for (const c of found.filter((f) => !candidates.some((x) => x.title === f.title)).slice(0, PER_QUERY)) {
+    const fresh = found
+      .filter((f) => !candidates.some((x) => x.title === f.title))
+      .sort((a, b) => used.has(a.title) - used.has(b.title));
+    for (const c of fresh.slice(0, PER_QUERY)) {
       try {
-        candidates.push({ ...c, query, bytes: await download(c.thumb) });
+        candidates.push({ ...c, query, used: used.has(c.title), bytes: await download(c.thumb) });
       } catch (err) {
         downloadErrors++;
         console.log(`  Skipped ${c.title}: ${err.message}`);
@@ -96,7 +100,8 @@ export async function backfillImages(posts, { days = 30, max = 12 } = {}) {
   let changed = 0;
   for (const post of todo) {
     try {
-      const image = await findImage({ title: post.title, summary: post.summary, html: post.html }, post.slug);
+      const used = new Set(posts.filter((p) => p !== post && p.image).map((p) => p.image.title));
+      const image = await findImage({ title: post.title, summary: post.summary, html: post.html }, post.slug, used);
       if (image) {
         post.image = image;
         console.log(`  Photo for "${post.title}": ${image.title} (${image.license})`);
