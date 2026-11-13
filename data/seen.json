@@ -21888,5 +21888,93 @@
     "reason": "Crime/accident news with no housing relevance.",
     "firstSeen": "2026-11-13T19:01:31.524Z",
     "covered": false
+  },
+  "sand hill plots housing offices at stanford research park": {
+    "title": "Sand Hill plots housing, offices at Stanford Research Park",
+    "link": "https://therealdeal.com/san-francisco/2026/11/12/sand-hill-planning-offices-housing-in-palo-alto/",
+    "source": "TRD Staff",
+    "published": "2026-11-12T19:15:28.000Z",
+    "category": "development",
+    "importance": 7,
+    "reason": "Proposed housing and office project at Stanford Research Park in Palo Alto.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "mdh partners breaks into bay area market with 23m industrial buy in livermore": {
+    "title": "MDH Partners breaks into Bay Area market with $23M industrial buy in Livermore",
+    "link": "https://therealdeal.com/san-francisco/2026/11/11/livermore-industrial-property-sells-to-mdh-partners/",
+    "source": "TRD Staff",
+    "published": "2026-11-11T23:29:34.000Z",
+    "category": "market",
+    "importance": 3,
+    "reason": "Industrial property sale in Livermore with minimal homeowner impact.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "prado gets 23 veritas sf apartment complexes as 362m debt piles up": {
+    "title": "Prado gets 23 Veritas SF apartment complexes as $362M debt piles up",
+    "link": "https://therealdeal.com/san-francisco/2026/11/11/prado-buys-san-francisco-apartment-properties-from-veritas/",
+    "source": "TRD Staff",
+    "published": "2026-11-11T21:20:59.000Z",
+    "category": "market",
+    "importance": 3,
+    "reason": "San Francisco apartment portfolio changes hands; indirect relevance to readers.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "google occupied building in fidi trades at nearly 60 markup from 2023 price": {
+    "title": "Google-occupied building in FiDi trades at nearly 60% markup from 2023 price",
+    "link": "https://therealdeal.com/san-francisco/2026/11/11/google-leased-offices-in-san-francisco-trade-hands/",
+    "source": "TRD Staff",
+    "published": "2026-11-11T20:36:49.000Z",
+    "category": "market",
+    "importance": 3,
+    "reason": "SF office sale signals investor return but is outside the core service area.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "historic squire house in palo alto seeking 20m buyer": {
+    "title": "Historic Squire House in Palo Alto seeking $20M buyer",
+    "link": "https://therealdeal.com/san-francisco/2026/11/10/historic-squire-house-in-palo-alto-seeking-20-million-buyer/",
+    "source": "Kennedy Zak",
+    "published": "2026-11-10T23:45:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Luxury celebrity-style listing of a single home.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "swig sks land fresh financing as they fill downtown sf office tower": {
+    "title": "Swig, SKS land fresh financing as they fill downtown SF office tower",
+    "link": "https://therealdeal.com/san-francisco/2026/11/10/swig-lands-38-million-mortgage-for-san-francisco-offices/",
+    "source": "TRD Staff",
+    "published": "2026-11-10T23:33:54.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "SF office financing deal with no direct homeowner effect.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "hotel university of california uc spends 193m on ritz carlton in half moon bay": {
+    "title": "Hotel University of California: UC spends $193M on Ritz-Carlton in Half Moon Bay",
+    "link": "https://therealdeal.com/san-francisco/2026/11/10/university-of-california-system-buys-bay-area-ritz-carlton/",
+    "source": "TRD Staff",
+    "published": "2026-11-10T20:56:06.000Z",
+    "category": "market",
+    "importance": 3,
+    "reason": "Major hotel purchase in San Mateo County with limited housing impact.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
+  },
+  "solano county healthcare facilities offices sell for 130m": {
+    "title": "Solano County healthcare facilities, offices sell for $130M",
+    "link": "https://therealdeal.com/san-francisco/2026/11/10/healthcore-buys-northbay-facilities-offices-in-norcal/",
+    "source": "TRD Staff",
+    "published": "2026-11-10T19:52:40.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Solano County medical property sale is outside the service area.",
+    "firstSeen": "2026-11-13T19:04:54.570Z",
+    "covered": false
   }
 }
