@@ -17619,7 +17619,7 @@
     "importance": 6,
     "reason": "Prop 43 local tax threshold measure rejected.",
     "firstSeen": "2026-11-09T15:46:21.111Z",
-    "covered": false
+    "covered": "2026-11-15T15:29:25.760Z"
   },
   "new san jose state mural highlights filipino americans role in farmworkers movement": {
     "title": "New San Jose State mural highlights Filipino Americans’ role in farmworkers movement",
@@ -19841,7 +19841,7 @@
     "importance": 8,
     "reason": "Voter-approved Bay Area transit tax affects local residents' costs.",
     "firstSeen": "2026-11-12T15:44:35.774Z",
-    "covered": false
+    "covered": "2026-11-15T15:29:25.760Z"
   },
   "sf wins lawsuit against local convenience store operating illegal gambling den": {
     "title": "SF wins lawsuit against local convenience store operating illegal gambling den",
@@ -22008,7 +22008,7 @@
     "importance": 5,
     "reason": "Statewide tax ballot results with indirect homeowner relevance.",
     "firstSeen": "2026-11-14T15:24:54.611Z",
-    "covered": false
+    "covered": "2026-11-15T15:29:25.760Z"
   },
   "mom sues school district over son s 3rd grade report card comments": {
     "title": "Mom Sues School District Over Son’s 3rd Grade Report Card Comments - People.com",
@@ -22151,7 +22151,7 @@
     "importance": 6,
     "reason": "Passed state measure limiting future wealth taxes affects Bay Area owners.",
     "firstSeen": "2026-11-14T15:24:54.611Z",
-    "covered": false
+    "covered": "2026-11-15T15:29:25.760Z"
   },
   "mountain view whisman weighs capping stevenson s kindergarten lottery seats": {
     "title": "Mountain View Whisman Weighs Capping Stevenson's Kindergarten Lottery Seats - Hoodline",
@@ -22756,6 +22756,424 @@
     "importance": 0,
     "reason": "Park rules update.",
     "firstSeen": "2026-11-14T15:24:54.611Z",
+    "covered": false
+  },
+  "brentwood seeks residents to fill vacancies on three city commissions": {
+    "title": "Brentwood seeks residents to fill vacancies on three city commissions",
+    "link": "https://localnewsmatters.org/2026/11/15/brentwood-seeks-residents-to-fill-vacancies-on-three-city-commissions/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-15T15:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Brentwood commission vacancies, outside core area.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "they said it rising cost of bart to san jose forces a reckoning": {
+    "title": "They said it: Rising cost of BART to San Jose forces a reckoning - The Mercury News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWhUb2EySUQtZ1YtUC1nY3dHQVRfMVhCTGk3NWViSHBXcFplakIwQ21KbTR1SGllcXlIMkhjZGF2aGJBZ1JEMXR2dFBCQm1NMFRqQllmS29KbzhfaUxOeW5iQml3R0lhT2JDOUEwM0RMTWduQlhpUXg3S29vcHJ2Q1F4VmZJLV9jTmNPdm1BVFdMY2otYTFHOElfOU1EUmVxX01WODhB?oc=5",
+    "source": "Google News",
+    "published": "2026-11-15T13:30:59.000Z",
+    "category": "development",
+    "importance": 7,
+    "reason": "Rising BART Silicon Valley cost debate affects major San Jose transit project.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "watsonville offers free sandbags to eligible seniors monday sand not included": {
+    "title": "Watsonville offers free sandbags to eligible seniors Monday — sand not included",
+    "link": "https://localnewsmatters.org/2026/11/15/watsonville-offers-free-sandbags-to-eligible-seniors-monday-sand-not-included/",
+    "source": "Kiley Russell, Bay City News",
+    "published": "2026-11-15T11:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Watsonville sandbag event, outside area.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "san mateo county s temporary shelter opening may be just in time for storms": {
+    "title": "San Mateo County’s temporary shelter opening may be just in time for storms",
+    "link": "https://localnewsmatters.org/2026/11/15/san-mateo-countys-temporary-shelter-opening-may-be-just-in-time-for-storms/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-15T09:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Homeless shelter weather program, not housing market.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "taekwondo instructor accused of lewd acts with youths in sonoma county": {
+    "title": "Taekwondo instructor accused of lewd acts with youths in Sonoma County",
+    "link": "https://localnewsmatters.org/2026/11/14/taekwondo-instructor-accused-of-lewd-acts-with-youths-in-sonoma-county/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-15T07:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime in Sonoma County.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "why renting a house beats buying one in today s tough housing market": {
+    "title": "Why Renting a House Beats Buying One in Today’s Tough Housing Market - South Florida Reporter",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkkzVTQ1V1lnY2FLRFQwTU15OWwtNjFta1JpTzZwYm9uRzJMbkhEdWEwSEVaZTdQVldCQy1QNW52WVdLS3Vub0w2U3NObVlkY2dVcXY1QTlUR2ZwbG41V09mcS03MjZUcGJENi1UbEhRYW5QNzlWOFFjYnpiazg0NzQtX2xJY010WE5JaWFGaXpKSnFLdFI0cEpvSDZ5Zzh4bWpB?oc=5",
+    "source": "Google News",
+    "published": "2026-11-15T06:03:17.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Florida opinion piece on renting.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "overnight bay bridge lane closures extended through mid december": {
+    "title": "Overnight Bay Bridge lane closures extended through mid-December",
+    "link": "https://localnewsmatters.org/2026/11/14/overnight-bay-bridge-lane-closures-extended-through-mid-december/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-15T06:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Traffic lane closures.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "greenfield cops arrest soledad woman suspected of facebook marketplace fraud": {
+    "title": "Greenfield cops arrest Soledad woman suspected of Facebook Marketplace fraud",
+    "link": "https://localnewsmatters.org/2026/11/14/greenfield-facebook-marketplace-fraud-suspect/",
+    "source": "Katy St. Clair, Bay City News",
+    "published": "2026-11-15T05:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime in Monterey County.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "jones declares victory over thompson in race for north bay congressional seat": {
+    "title": "Jones declares victory over Thompson in race for North Bay congressional seat",
+    "link": "https://localnewsmatters.org/2026/11/14/jones-declares-victory-over-thompson-in-race-for-north-bay-congressional-seat/",
+    "source": "Pete Young, Bay City News",
+    "published": "2026-11-15T04:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "North Bay election result.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "king tides could force road and tunnel closures in alameda and oakland caltrans warns": {
+    "title": "King tides could force road and tunnel closures in Alameda and Oakland, Caltrans warns",
+    "link": "https://localnewsmatters.org/2026/11/14/king-tides-could-force-road-and-tunnel-closures-in-alameda-and-oakland-caltrans-warns/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-15T03:00:00.000Z",
+    "category": "other",
+    "importance": 3,
+    "reason": "King tide flooding risk in Alameda/Oakland may concern homeowners.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "san jose earthquakes soccer team and paypal park stadium sold to media executive": {
+    "title": "San Jose Earthquakes soccer team and PayPal Park stadium sold to media executive",
+    "link": "https://localnewsmatters.org/2026/11/14/san-jose-earthquakes-soccer-team-and-paypal-park-stadium-sold-to-media-executive/",
+    "source": "Dan McMenamin, Bay City News",
+    "published": "2026-11-15T02:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports team sale.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "peninsula activist paul george s legacy lives on after death": {
+    "title": "Peninsula activist Paul George’s legacy lives on after death",
+    "link": "https://www.paloaltoonline.com/peninsula/2026/11/14/peninsula-activist-paul-georges-legacy-lives-on-after-death/",
+    "source": "Jennifer Yoshikoshi",
+    "published": "2026-11-15T01:48:47.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Obituary.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "scenic road in carmel point closed after large waves leave rocks and debris": {
+    "title": "Scenic road in Carmel Point closed after large waves leave rocks and debris",
+    "link": "https://localnewsmatters.org/2026/11/14/scenic-road-in-carmel-point-closed-after-large-waves-leave-rocks-and-debris/",
+    "source": "Thomas Hughes, Bay City News",
+    "published": "2026-11-15T01:04:19.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Monterey County road closure.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "makiki breaks ground on 247 unit olohana affordable rentals": {
+    "title": "Makiki Breaks Ground on 247-Unit ‘Olohana Affordable Rentals - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzYzazU0Wl93WEFUY2M1aVAwN0FfLXBQLVYzcWl2cEJ1UWxfMjE4S0hHOXZHRUNwMHFKSnJPd3FGTXlfVWNCLWVBTUdaX1hYeHZHZ21NWW9EMURrcFM2WkY4dkxBc2ZreG85MTZJZmd3clhCV2wyeVZiT1FibzVXdjJjSWE3Mmg5NUJOQTZQNG51Y2c?oc=5",
+    "source": "Google News",
+    "published": "2026-11-15T00:14:02.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Hawaii development.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "hawaiian bros coming to salem s willamette town center": {
+    "title": "Hawaiian Bros Coming to Salem's Willamette Town Center - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFo2eFp6TUNSakFyZm83SGdQNXVlWFQ5Vzl2LTNUVUtfSFVvQm9tVmRpY0xPMklCZXFMZjUybnIzYk81dlM3OHdjdmx1YUJvZUpYTGp2eVNqVE92UlJqUWcyN0FsZS1Dd053NDBfTDVBbGszX3FjWUdZbEJLSnA2a1BsOFlWLUhPNDloeGc4YVMxb2NPX2x0TzI4bVppUEZFZUFVekxJTVU?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T23:49:02.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Oregon retail.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "huffines breaks ground on 2 700 acre lakesong dwarfing viridian in ellis county": {
+    "title": "Huffines Breaks Ground On 2,700-Acre Lakesong, Dwarfing Viridian In Ellis County - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFBOWnNjbmtNbDFwUGRQQWlxdmc1ZVJPeVpYQnZsclRWSDFQVzd5N3hXd0VLb0FrLWUyWlN0NUtDNEVWbnY2NHAtR2dzWndUX3VFVWNkQjM5NFNWajg5c3NSNWVEXy0tbmhNR0VrZEZqcVhzLVBJZGFBS2k3MkFDWm5NajVoNmxKUUx5Zmc2WGE0Z0p3ZmpEajRtU29Yd0ZDX3U0aDVYdk05STJ4MWc?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T23:14:02.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Texas development.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "edsource google s new ai ultimatum sparks concern over tech giant s power in california schools": {
+    "title": "EdSource: Google’s New AI “Ultimatum” Sparks Concern Over Tech Giant’s Power in California Schools",
+    "link": "https://www.svvoice.com/edsource-googles-new-ai-ultimatum-sparks-concern-over-tech-giants-power-in-california-schools/",
+    "source": "EdSource",
+    "published": "2026-11-14T22:00:00.000Z",
+    "category": "schools",
+    "importance": 3,
+    "reason": "Statewide school tech issue, indirect Bay Area angle.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "blog why do we have plastic playgrounds": {
+    "title": "Blog: Why do we have plastic playgrounds?",
+    "link": "https://www.paloaltoonline.com/blogs/a-new-shade-of-green/2026/11/14/too-many-plastic-playgrounds/",
+    "source": "Sherry Listgarten",
+    "published": "2026-11-14T21:40:05.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Opinion blog.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "mountain view whisman board approves 3 4m rain shelters for castro elementary": {
+    "title": "Mountain View Whisman Board Approves $3.4M Rain Shelters for Castro Elementary - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNzY2d3ZoQ2paWHpzanFPZ2ZTQnBUM1JmalphMmxCbGY2bTgwZ1JqQTRtWTZKbnN2OFdHc19pdndoRzdCYll6WlBEVE9MNU1xTXlzeFY4QnlNZmxqQUcwMHpHNmt0SkZUQnpQaUd3bGVGTV9sTTItS1BRWFh6cUJiN2pJbnJvLVN2STUzRVhrLW1CcXNheERlVXZXeU13a1VNWTlVMld1S3VTdXc?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T21:39:06.000Z",
+    "category": "schools",
+    "importance": 4,
+    "reason": "Mountain View Whisman facility spending, small project.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "fort worth breaks ground on new mlk jr community center in stop six": {
+    "title": "Fort Worth Breaks Ground on New MLK Jr. Community Center in Stop Six - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelBSVmpmOGJLMmg4SjZ0bnZhVWJFb184a3FUcEdMaksxejRGd0RzT0x1eC14OG1TR0lXVG50NXRINTJBNjVGUm9IbkVOLXo0QXpSMUtWbHEzZFhtSXhzRmI1bkpza0RiZHVlcFoyY25JMGZjN2c3QjdDcUF1a25YT2QyNE5IRC1CTkdSQ1kxUDBKQU9oOEtwOFl6TU1Vdw?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T21:36:58.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Texas project.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "los altos boys water polo falls short in ccs final": {
+    "title": "Los Altos boys water polo falls short in CCS final",
+    "link": "https://www.losaltosonline.com/sports/los-altos-boys-water-polo-falls-short-in-ccs-final/article_2626547c-76d5-4626-a2dd-a90f2f12f140.html",
+    "source": "By Curtis Driscoll Town Crier Staff Writer",
+    "published": "2026-11-14T21:09:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "rio marine village breaks ground on martin county waterfront": {
+    "title": "Rio Marine Village Breaks Ground on Martin County Waterfront - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWFdUZmdUZk9MSHBFZVdpWkxzLVlQYXl0VUU2blF2bW5XQm5oQUU3WWFFTTZ3ZjF6bDMtQ3R4bDctcmpRUVBDWGMzbklYX0l4Z2xIcUJrUko0QWsyN0hubW9wYUZhWWp5aXNldHdrYWJ4S3F3b3JhX09yamMtM3pQcldsQW5wZndXUEo1RmNaRmxGdk1CV3lvLVlMdWhVUWZu?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T20:43:57.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Florida project.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "tomball solar campus grows with 704 000 square foot warehouse breaking ground": {
+    "title": "Tomball Solar Campus Grows With 704,000-Square-Foot Warehouse Breaking Ground - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVlqMWdfZC1GMVdTdFRvLVpxX2VPZDdEZUtadWhXR0lOaWhhYXdhOFFyU3J4S0dQYTFxWmFMQVl0UmZ2NEdKME8zQ2c4Mnk4VFhQaVpYNnpiT0kzakJWam9rMDFRNkZJc3MwNlVCamI3eDZmZnFod3otN3ppc296WmJTb2tyREprR0FzcXhtS3VpeXViQk54VWFKZWQyMlVrWklrTGhFd0Njc1U?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T18:13:00.000Z",
+    "category": "development",
+    "importance": 0,
+    "reason": "Texas warehouse.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "nate bargatze breaks ground on indoor athletic complex at nashville alma mater dca": {
+    "title": "Nate Bargatze Breaks Ground on Indoor Athletic Complex at Nashville Alma Mater DCA - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUI5U2lwbU9lV0JDN19DZjk0ZTIweXVzUDRDVjRnOElRT1M1OV9FU21EQk03dVU1YVBiaEMtbWJ6Q1VtNnJUY0RmTkwzbEdHTTRCMFptSmcxN1oxajlkWWlpdGhGRzZnOEFWaFJJcGMwWkp1SUVRaGZ1M2k4Tk9tWkQzRTdWLWJjVTVnMWNmc05LMXZsRXlUOU44Nkl0RmtWTGpnU2JkckVwNldYT21RV3hn?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T17:18:12.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Nashville project.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "guest opinion the long and simple answer to rv homelessness": {
+    "title": "Guest Opinion: The long and simple answer to RV homelessness",
+    "link": "https://www.paloaltoonline.com/guest-opinion/2026/11/14/guest-opinion-the-long-and-simple-answer-to-rv-homelessness/",
+    "source": "Guest Opinion Writer",
+    "published": "2026-11-14T17:06:27.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Opinion piece.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "around town progress on quarry salary raises": {
+    "title": "Around Town: Progress on Quarry, salary raises",
+    "link": "https://www.paloaltoonline.com/community/2026/11/14/around-town-progress-on-quarry-salary-raises/",
+    "source": "Gennady Sheyner",
+    "published": "2026-11-14T17:06:04.000Z",
+    "category": "development",
+    "importance": 5,
+    "reason": "Palo Alto Quarry Road transit project progress.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "tens of thousands march in portuguese cities against surging home prices": {
+    "title": "Tens of thousands march in Portuguese cities against surging home prices - News4JAX",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmVET0V6WW4yX0s5d0xwYmo1SVc5VlEwVDRxeVpRVHBnNWNRa092SVZKYV9xcWVROHNYaEdaWHc4enNQLWtUeGZpS19wUkJrZkdCVHpaTVlUdGowakhwWW11LWNZYzE2RklzQm84ZjJMRE15NllvNElqRUMxZG9PZC1lQUVxWFVaQnZ3Sk8tYzNGOGxiaVRGTGhRLVJjQS1RclZEUFNjNTBoSkRpeERFOWJFcGs5MXIzX1lrZw?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T16:53:54.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Portugal news.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "mom takes school district to court over teacher s remark show respect and cooperate": {
+    "title": "Mom takes school district to court over teacher's remark: 'Show respect and cooperate' - WKRC",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjFxVG9iOTJuNnppZTZFcFBHeHRZenN4NWVqU1h1ZVN5S0FLWHZVUmFTcmRxM0N4VzAzdkhLdkR6VEstVXZIUUVnNnQwUlgyNlBkS3pTQjZPbDRsNklKSWtJOUxUY3kydThIT2dnSkhERkhHM0VaeVFuLXRBc085U0lvUFhyNm94NDE0a2V3VEM1Y0lhUnMwbDNMUTBscC1vMFZ3c0VtcFR3SEFPUnVEcjB1a0xGSjdsdlVuUQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T16:32:21.000Z",
+    "category": "schools",
+    "importance": 0,
+    "reason": "Non-Bay Area school lawsuit.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "vietnam war memorial brings closure to cupertino vets": {
+    "title": "Vietnam War memorial brings closure to Cupertino vets",
+    "link": "https://sanjosespotlight.com/vietnam-war-memorial-brings-closure-to-cupertino-vets/",
+    "source": "Joyce Chu",
+    "published": "2026-11-14T16:00:48.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Memorial event.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "sunnyvale revises policy for boards commissions": {
+    "title": "Sunnyvale Revises Policy for Boards, Commissions",
+    "link": "https://www.svvoice.com/sunnyvale-revises-policy-for-boards-commissions/",
+    "source": "Chris Ramirez",
+    "published": "2026-11-14T16:00:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Sunnyvale commission meeting policy change.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "florida property tax amendment passage leaves local funding questions": {
+    "title": "Florida property tax amendment passage leaves local funding questions - Just The News",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkU0LW5aOGNrcU1jdHdLdVRERU9hSDJuRE1QbVhfQVVaRWp2N0I0UGFDU0VlcG5kd0ZyRk44UV85ZnlzU0RnXzl4cjA0RTR5SFZwbldnaFgwbVdVanhXeDhxU3VpM3ZEYnZKYWpPMGlJMGVXNkF5WVB1d2VQQkEwRUJoNjRIbGpodE1iTjZ2TGhiLWE0Q2g1dHpva2hpdUZiUDlVVUNhb2xiRVBwMUlwaVR1VlBuV2hqWlBWYWRB?oc=5",
+    "source": "Google News",
+    "published": "2026-11-14T14:10:07.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Florida property tax.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "mountain view football one and done in playoffs": {
+    "title": "Mountain View football one-and-done in playoffs",
+    "link": "https://www.losaltosonline.com/sports/mountain-view-football-one-and-done-in-playoffs/article_d3e4632b-41b5-435d-a090-7dcd516f6d46.html",
+    "source": "By Curtis Driscoll Town Crier Staff Writer",
+    "published": "2026-11-14T07:20:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "attorney behind withdrawn clay county ag enclave application also fighting st johns county in court": {
+    "title": "Attorney behind withdrawn Clay County ag enclave application also fighting St. Johns County in court - News4JAX",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa1A4SnEzaTZrMnpJT2VoWlp4Ync1T2g3dWRrOHZNbzBaWm12d1NGZFdRdzBrMmpwS3g2M3VvbmJLZzhpZ3M0UGNJcnJ5UGJSUU55dEF2dXZVMWVqLUJ5dDJ1SURDUVlqWVVoNFlGZHM2cFU1VnZRcXlxVzhaU2NLT2N0UDFxMnhhNldCU1BCNHBrMTh4dHQ2dDlNRExZVi14cktPQWNWLWp5V2t6cHg4OEJtSC12Q29GMC1FUmNCR3ZpYkozSUtpbVR1S1ZfWHk2MGQyNGVwLUdGZlNZNUpyZA?oc=5",
+    "source": "Google News",
+    "published": "2026-11-13T23:19:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Florida legal dispute.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "foothill defeats rival de anza 36 7 finishes as runners up in bay 6 league": {
+    "title": "Foothill defeats rival De Anza 36-7, finishes as runners-up in Bay 6 League",
+    "link": "https://www.losaltosonline.com/sports/foothill-defeats-rival-de-anza-36-7-finishes-as-runners-up-in-bay-6-league/article_d41b0241-04a4-46ba-8a47-116e2f6652f5.html",
+    "source": "By Michael Xu Special to the Town Crier",
+    "published": "2026-11-13T22:25:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sports.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "landmark tax decisions feature in 2026 midterm elections": {
+    "title": "Landmark Tax Decisions Feature in 2026 Midterm Elections... - National Conference of State Legislatures",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmx0UEdUQWJCWVdFMkxYNTFEU1k1dm42c2Z3ZUcwa3hzTnIzRk43Mmo5WWFMWU93REpySlpxZmVvZTBzSGZHQjVOdDJkczE1azU3VUtEb3ViVTh1bThBNjRlY3BPT2lTYTBLckRwaE1yaHZ5OWVYNUdTUUZYNnVsTmduZzRMVmVoQ3lIbS1rZU9TNHNv?oc=5",
+    "source": "Google News",
+    "published": "2026-11-12T21:46:12.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "National tax overview.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "northeast florida home prices edge up in october as sales fall and affordability slips": {
+    "title": "Northeast Florida home prices edge up in October as sales fall and affordability slips - News4JAX",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZlRuamUyQ1AtcXhFTnM1dDVmZzBKNDd2UTUwTW01dUc1ZGZmX0ZUZEd4S2tMT2hnRjNqSzJYNVZIbHNMLV9xYmVIbkxaTFhyRW8wWXFUcHJ0ajlXYjMyN284UEJ2REVjbUw1bTNscXBDazg4YzFIYVRQRXdYYTdiUWJqQ2xvODFuSERoRGVTaV9RSDEwNkQ0d240c2IzVERYR0xzX1QzTGdkU0NrRzVCZGgycGdCcDl0ZDFBY0kyRG16blhhck0wMVVhWS1YNW8?oc=5",
+    "source": "Google News",
+    "published": "2026-11-12T19:45:00.000Z",
+    "category": "market",
+    "importance": 0,
+    "reason": "Florida market data.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "council approves budget amendments for project closures and veterans park parking": {
+    "title": "Council approves budget amendments for project closures and Veterans Park parking - Citizen Portal AI",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHdkOXVxb1RWVFg4aDJmV1Byc2pGRjFnNHJQUmpYcWllbk1MNXFoVFphS3pCWEZSTmVLdHdwV3QwVjVncDhEOGlFdElka1hOa1pua0hQX0pNbWxPWmhLVUwtR0RIcllnVWUxYmFPUGd1QVlMOFlkbTY2c2lGd3NmMW1zdHhpc25EU0tJMkdha2V4R3pkSXBfejBkeXpvWlhQaF91MlFVd0FtRUlJdVJGR3M0RVJoX2FJQjFtYjFUY2U5dw?oc=5",
+    "source": "Google News",
+    "published": "2026-11-12T08:00:00.000Z",
+    "category": "local_policy",
+    "importance": 0,
+    "reason": "Unclear location budget item.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
+    "covered": false
+  },
+  "oakland charter school will remain open despite misstep in closing high school without approval": {
+    "title": "Oakland charter school will remain open despite misstep in closing high school without approval - San Francisco Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDU2Y0plQW5qS2hLY3VjMGg3ek1ldUthZ1lmUmxVVjFJcnRxeU4tby1TMVBJU3lRcjk0WWpLaGN1U3JWLVpfUXB0cGEyaldzc0FNSjlhME5xREdJa2pOTzhkWWstTExzaVVtY3hXbF80bVNEUFhSS0pmQjhOSURWX1hTZDJZaEcwM0I5WXlvLU9uUlczZXZhamw4YWVtUkRy?oc=5",
+    "source": "Google News",
+    "published": "2026-11-12T00:12:12.000Z",
+    "category": "schools",
+    "importance": 7,
+    "reason": "Oakland charter school closure decision in Alameda County.",
+    "firstSeen": "2026-11-15T15:26:31.646Z",
     "covered": false
   }
 }
