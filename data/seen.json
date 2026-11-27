@@ -27838,7 +27838,7 @@
     "importance": 6,
     "reason": "Statewide ballot results may change housing and tax rules.",
     "firstSeen": "2026-11-21T15:31:28.009Z",
-    "covered": false
+    "covered": "2026-11-27T23:04:05.468Z"
   },
   "nasa eyes moffett field as site for massive data center": {
     "title": "NASA eyes Moffett Field as site for massive data center",
@@ -28443,7 +28443,7 @@
     "importance": 6,
     "reason": "New state two-ADU law also applies to Bay Area homeowners.",
     "firstSeen": "2026-11-22T20:52:50.958Z",
-    "covered": false
+    "covered": "2026-11-27T23:04:05.468Z"
   },
   "lurie signs tenant protections funds eviction defense": {
     "title": "Lurie Signs Tenant Protections, Funds Eviction Defense - Wisevoter",
@@ -31820,7 +31820,7 @@
     "importance": 5,
     "reason": "SF relocation assistance law for landlords; outside core counties.",
     "firstSeen": "2026-11-26T23:24:09.660Z",
-    "covered": false
+    "covered": "2026-11-27T23:04:05.468Z"
   },
   "stockton family launches gofundme after shooting kills 6 year old girl": {
     "title": "Stockton family launches GoFundMe after shooting kills 6-year-old girl",
@@ -32524,6 +32524,446 @@
     "importance": 0,
     "reason": "National outlook.",
     "firstSeen": "2026-11-26T23:24:09.660Z",
+    "covered": false
+  },
+  "holiday horsepower lighted tractor parade rolls through downtown sonoma on saturday": {
+    "title": "Holiday horsepower: Lighted tractor parade rolls through downtown Sonoma on Saturday",
+    "link": "https://localnewsmatters.org/2026/11/27/holiday-horsepower-lighted-tractor-parade-rolls-through-downtown-sonoma-on-saturday/",
+    "source": "Dan McMenamin, Bay City News",
+    "published": "2026-11-27T23:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Sonoma holiday event, not relevant.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "berkeley humane waives adoption fees for cats kittens all december": {
+    "title": "Berkeley Humane waives adoption fees for cats, kittens all December",
+    "link": "https://localnewsmatters.org/2026/11/27/berkeley-humane-adoption-fees/",
+    "source": "Alise Maripuu, Bay City News",
+    "published": "2026-11-27T22:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Pet adoption promo.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "man arrested in thanksgiving shooting that killed wife critically injured teen in oakley": {
+    "title": "Man arrested in Thanksgiving shooting that killed wife, critically injured teen in Oakley",
+    "link": "https://localnewsmatters.org/2026/11/27/man-arrested-in-thanksgiving-shooting-that-killed-wife-critically-injured-teen-in-oakley/",
+    "source": "Dan McMenamin, Bay City News",
+    "published": "2026-11-27T21:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Crime news.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "city buys two homes along the tracks": {
+    "title": "City buys two homes along the tracks - Palo Alto Daily Post",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTZ1ZSVWNEY01UaFlzanFzYlZaVEZJOVVJeks3aXB4VXZrTXpLaTNoakpWUlIyZGZWUkhGSDdxLU9mdFVpWnYzX2dPNVBfd3RjQUI3ZzdtMkxiQlRWODJfSF9OZHliakxCTTJBclB0a0FjVFFZeDVRRUpza20?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T20:03:18.000Z",
+    "category": "local_policy",
+    "importance": 5,
+    "reason": "Palo Alto buying homes along rail tracks, likely tied to grade separation.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "pendyala san jose must aggressively put ai to work to stop crime": {
+    "title": "Pendyala: San Jose must aggressively put AI to work to stop crime",
+    "link": "https://sanjosespotlight.com/pendyala-san-jose-must-aggressively-put-ai-to-work-to-stop-crime/",
+    "source": "Special to San José Spotlight",
+    "published": "2026-11-27T20:00:11.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Opinion on policing tech.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "storm weary bay area gets brief break before more rain and winds arrive sunday": {
+    "title": "Storm-weary Bay Area gets brief break before more rain and winds arrive Sunday",
+    "link": "https://localnewsmatters.org/2026/11/27/storm-weary-bay-area-gets-brief-break-before-more-rain-and-winds-arrive-sunday/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-27T20:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Weather forecast.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "palo alto council agrees to buy two ventura houses": {
+    "title": "Palo Alto Council Agrees to Buy Two Ventura Houses - Wisevoter",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVVRQXk3eVByUlE4Tzg3RUFLczVtY2hvZ1dxcVpQSHF1NzhnVW9Mb1dSLUlnUlpoV1YxN1Z0YlpnYmRvZHlnUC1yMG13V1NldWc2VkZjSDRwNnhMV3Fhb1lXMDk4ZFB5b0JEQnFEREkwZUNGYWk4M0pYOUVTMGV2Z0ctNkt0NkJyazRpLWE3bHEzNWxXak1kUUpMTQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T19:13:10.000Z",
+    "category": "local_policy",
+    "importance": 5,
+    "reason": "Palo Alto council purchase of Ventura homes.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "opinion mendocino is losing its water towers one unstudied decision at a time": {
+    "title": "Opinion: Mendocino is losing its water towers, one unstudied decision at a time",
+    "link": "https://localnewsmatters.org/2026/11/27/mendocino-water-tower-demolition-appeal/",
+    "source": "Dan Potash",
+    "published": "2026-11-27T19:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Mendocino opinion piece.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "monterey county jail helps inmates attend loved ones funerals through livestreams": {
+    "title": "Monterey County Jail helps inmates attend loved ones’ funerals through livestreams",
+    "link": "https://localnewsmatters.org/2026/11/27/monterey-county-jail-helps-inmates-attend-loved-ones-funerals-through-livestreams/",
+    "source": "Gabe Agcaoili, Bay City News",
+    "published": "2026-11-27T18:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Monterey jail program.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "mountain view minimum wage to hit 20 25": {
+    "title": "Mountain View Minimum Wage to Hit $20.25 - Wisevoter",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnR4bVpaRElKRXlCazhZN3FkNEs0YU9uZWV2S24zcXhidHI0S3hCSEdQNUoyT0NiM1Z5ZXZqZ1FZUlctVFBZaVpyRjh4U2VSeTk3UUVYNWI1NnQwTVR6by1fX211TmZMcW9DSDBSWFdERzFjWE5WTnpUY0dwSmN6eHRPemxHWUN3c0hwQXBPWE1JWUV1NFdnY1dNel8?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T17:48:01.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Mountain View minimum wage increase, minor for homeowners.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "opinion there are ways to increase affordable housing here": {
+    "title": "Opinion: There are ways to increase affordable housing here",
+    "link": "https://www.paloaltoonline.com/guest-opinion/2026/11/27/opinion-there-are-ways-to-increase-affordable-housing-here/",
+    "source": "Guest Opinion Writer",
+    "published": "2026-11-27T17:23:34.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Opinion piece on affordable housing.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "city s gas leaf blower ban could leave homeowners facing 1 000 fines for their landscapers actions": {
+    "title": "City's gas leaf blower ban could leave homeowners facing $1,000 fines for their landscapers' actions - The Cool Down",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEc3V3R4YTNsYUcwUVAzQmdJRFVmRVpmSDVvamxUSlBabG42YTFqSEFRNzV6RkRWajc2UE1WVTMxNFNxY0lPczhxRF9uMlVsS3M5Ymd2bml2RnhlbWpMWVNSdGRwQVlWaDhQMUN4TlNUYmkwcTlEbG9JRENpNldrYw?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T17:14:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Leaf blower ban fines on homeowners, city unclear.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "blog the promise of using your ev to ride out a power outage": {
+    "title": "Blog: The promise of using your EV to ride out a power outage",
+    "link": "https://www.paloaltoonline.com/blogs/a-new-shade-of-green/2026/11/27/blog-the-promise-of-using-your-ev-to-ride-out-a-power-outage/",
+    "source": "Sherry Listgarten",
+    "published": "2026-11-27T17:07:10.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Blog on EV backup power.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "mountain view minimum wage will top 20 hour in 2027": {
+    "title": "Mountain View minimum wage will top $20/hour in 2027",
+    "link": "https://www.mv-voice.com/news/2026/11/27/mountain-view-minimum-wage-2027/",
+    "source": "Christina Casillas",
+    "published": "2026-11-27T17:00:00.000Z",
+    "category": "local_policy",
+    "importance": 3,
+    "reason": "Mountain View minimum wage rising in 2027.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "marine sanctuaries to host public advisory council meeting on impacts of el ni o": {
+    "title": "Marine sanctuaries to host public advisory council meeting on impacts of El Niño",
+    "link": "https://localnewsmatters.org/2026/11/27/marine-sanctuariues-public-advisory-council/",
+    "source": "Ruth Dusseault, Bay City News",
+    "published": "2026-11-27T17:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Marine sanctuary meeting.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "around town it takes a village one dedicated fan and looking out for vets": {
+    "title": "Around Town: It takes a village, one dedicated fan, and looking out for vets",
+    "link": "https://www.paloaltoonline.com/palo-alto/2026/11/27/around-town-it-takes-a-village-one-dedicated-fan-and-looking-out-for-vets/",
+    "source": "Clay Lambert",
+    "published": "2026-11-27T16:38:35.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Community column.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "santa clara raises electricity rates as costs grow": {
+    "title": "Santa Clara raises electricity rates as costs grow",
+    "link": "https://sanjosespotlight.com/santa-clara-raises-electricity-rates-as-costs-grow/",
+    "source": "Maryanne Casas-Perez",
+    "published": "2026-11-27T16:30:50.000Z",
+    "category": "local_policy",
+    "importance": 5,
+    "reason": "Santa Clara residential electricity rate hike affects homeowners.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "bay city beat radio show nov 27 29 2026": {
+    "title": "‘Bay City Beat’ radio show: Nov. 27-29, 2026",
+    "link": "https://localnewsmatters.org/2026/11/27/bay-city-beat-radio-show-nov-27-29-2026/",
+    "source": "Local News Matters",
+    "published": "2026-11-27T16:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Events radio show.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "ypsilanti area rec center construction begins at clark road": {
+    "title": "Ypsilanti Area Rec Center Construction Begins at Clark Road - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalhiSTd1WkpFQWtlT0xHVFJIS1AyeVhKcXRBTTJCSk9rQ0xhbkRZRXUzd2dGMTJHTVBEWDhNclpKMnVhcHkxVzNnbVYxNEF0TEpQQVMzUExPUVdFSTRJOVYwV0xJVFFLMThkUzNPWkpwRzdrem1SR0dTTmV0ZURMMjRhY202SHNPT0tNeVJ1UkRMbTBzdUE3aERPNDVQWVhrTk5fN1NR?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T15:55:49.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Michigan project.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "arden fire station pbcfr breaks ground near 20 mile bend": {
+    "title": "Arden Fire Station: PBCFR Breaks Ground Near 20-Mile Bend - Hoodline",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHczejFjM1k4WEZWMEY4eFFINV9JeHRCbnNWNmY0Qk85Z1BOYUFEVUxWT1otN2hGMDhuYnVNMlQ0M0JXTExkdklhSlZsMEwzTjBNbE5QNkhlNzdxbHZuaW9COXhya3ltbUpuekQwQmo4SmEtaU1uYzRaa2djcG9FNEY0N0c5TlRPYTVjcURIQzJmR1lER1FiLUswcTNJZUt6QWpIVmlTSQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T15:13:24.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Florida fire station.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "sf zoo animals enjoy thanksgiving treats": {
+    "title": "SF Zoo animals enjoy Thanksgiving treats",
+    "link": "https://localnewsmatters.org/2026/11/27/san-francisco-zoo-thanksgiving-treats/",
+    "source": "Mark Gaso, Bay City News",
+    "published": "2026-11-27T15:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Zoo story.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "dorothy johnson obituary ft worth tx 1937 2026": {
+    "title": "Dorothy Johnson Obituary - Ft Worth, TX (1937-2026) - The Mercury News",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90MDdHckphTGdkd2MzVnYwNnpVVHZialZRTmZfeVhwVlNZMnNpR0ExbTh6U25RSnB0LW5IU2RYbnpmbjJwak1Xby1EUzZfNHZWNXZiQjNaOHRYRkZZVFVwLXQxQXNHaTZYSlpmNlctRnZ3QUV0YkE?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T13:30:13.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Obituary.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "key mortgage limit is rising next year will it matter for the bay area market": {
+    "title": "Key mortgage limit is rising next year. Will it matter for the Bay Area market? - San Francisco Chronicle",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dKV2REdVpJZWFZX09tTWRwblE3YlZfRlNiNVVWaFptcENLMFBxejB3ell2TlU4dmhmUUpoYVlpVDV0eUVwN2lsMnE3VmxUem1KN052ZlFDUEpSTmNPQ0JWS2VMNWFPRlhXVkZERDdxUUxPY0RVZ0JMNE9YRTA5ZlluaWxvUVZqODA0VHEwZXNyV09tTDl3?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T12:04:23.000Z",
+    "category": "market",
+    "importance": 7,
+    "reason": "Conforming loan limit rise and Bay Area market impact.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "sunnyvale residents rally at las palmas park": {
+    "title": "Sunnyvale Residents Rally at Las Palmas Park",
+    "link": "https://www.svvoice.com/sunnyvale-residents-rally-at-las-palmas-park/",
+    "source": "Chris Ramirez",
+    "published": "2026-11-27T11:00:00.000Z",
+    "category": "local_policy",
+    "importance": 4,
+    "reason": "Sunnyvale park renovation dispute.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "california expands adu rules to take effect january 2027": {
+    "title": "California Expands ADU Rules to Take Effect January 2027 - Wisevoter",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVW9yNVNMenJ0OXhvWEFLZWd5U3d3TkZPR2V3YTRBc0M5Vi1ZWVpHTmljM1hJbGU4TFFOUUEtLTdUb05ETlEydExPMm44UlhTZktSel90RWV4Nk5ubDhvTjVSc3JleGRnOEtOMGxpZjROVXYxYjdDMHB6OXFRYmIyZ3htbUc3N0tCOVN4M3hWanNNN2s?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T09:12:54.000Z",
+    "category": "law",
+    "importance": 9,
+    "reason": "New state ADU rules effective January 2027 affect Bay Area homeowners.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": "2026-11-27T23:04:05.468Z"
+  },
+  "coastal flood advisory issued through sunday": {
+    "title": "Coastal flood advisory issued through Sunday",
+    "link": "https://localnewsmatters.org/2026/11/27/coastal-flood-advisory-bay-area/",
+    "source": "Mark Gaso, Bay City News",
+    "published": "2026-11-27T08:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Flood advisory, weather.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "watch president ferdinand r marcos jr leads the groundbreaking and ceremonial capsule laying ceremony for the php2 2 billion jalaur bulk water supply project at the metro iloilo water district water miwd treatment plant compound in barangay tal": {
+    "title": "WATCH: President Ferdinand R. Marcos Jr. leads the groundbreaking and ceremonial capsule laying ceremony for the PHP2.2-billion Jalaur Bulk Water Supply Project at the Metro Iloilo Water District Water (MIWD) Treatment Plant Compound in Barangay Tal - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTZLRU81NUZhS0htSkdZSDdJZmk0UWx5UWZTSHNfelNuX0pza3lrY2g2NzlOVHk5NWxIRzc0Q2xoUXROQ3pEOFN5akFUb2ZyRGRuUGF2MVg2MktxQ1l0NGhGQnBCY0xDbjhMS0dnQVdYeVlHWkJQVEtFaHRTdWFfYlNXbTNhNlVoVk1vSXBTYkJYdXZ2Zk9YU19JelYzQXpQbTJhR1FzRDhjdDBjamd5dURLOTB1VjR4QmZpTmZ3aF9VeGxiMW44cFUtakFySFMwaEJPZQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-27T02:28:30.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Philippines project.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "tax exemption denied for chesterfield building purchase": {
+    "title": "Tax exemption denied for Chesterfield building purchase - West Newsmagazine",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXZwVzh1NzlKTHdCNHlld1VMWW1SSjFrN2VDX0k4eEhSYTc1VnF4YTQ3VGQwWERYUkpQUUt2U3hoR1IzQUN4UFc3blZhUzM0c09qZXV5VXloNVdmZUNxZ0tWa0twcXJQMXZXY1R1YTVlZ0Q2Z0NISlNkZHFySlp3RGRRNkJuSkYyS053dXJXOFBsQWFNbUltNTFIRHFkbG9TT2xfZThVUmpOSHk0R1NkSlBxci1tdGtkWXNpYkFNOFh2Z3FSWFZaT0FNdlViNWxTa2M3UFJWSTVQVnpRUmh4WllvNnU2cTJidWZaWg?oc=5",
+    "source": "Google News",
+    "published": "2026-11-26T23:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Missouri tax issue.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "lloydminster drop in centre still hunting for a home after development bid rejected": {
+    "title": "Lloydminster drop-in centre still hunting for a home after development bid rejected - CBC",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTEpPa0s5NnRuSHg0ejAxQjRtd0w2N1JVSGRKUGl3ejZfb0VOWUNyNkpKRWZzcjRVX0VrTnN6c0JQWkxxR1RiYzY5REExMHJOcU1RSkVFY3RJWTJRM0o0S0VrN2l4V2U4aDI5NV9hOGszVDhMVG5jQ08wQVhtbWlMU0R3Z1E?oc=5",
+    "source": "Google News",
+    "published": "2026-11-26T12:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Canada news.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "toyota to open first service center in occidental mindoro": {
+    "title": "Toyota to open first service center in Occidental Mindoro - thephilbiznews",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3hQdTFyaEtmWHNvSlN2ZENCX3pmOUR4TFpYQm9xQmh4QlpYdmVwRzFwM0NjX2Q0QmhYNGJBdk54UnFPbDRXSVF3WmJtU3dON29NYkoteGNqSVU5R3JuaENqaTFUMExYeHVLMmZxTnN5Yi1RdVRINjdqOTctMDFtNVo0VDA3VUgxVFhudHFqNzFiTm9lM3MwbGRHcXE?oc=5",
+    "source": "Google News",
+    "published": "2026-11-26T00:35:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Philippines business.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "a missouri couple sought permission for 12 rooftop solar panels but their homeowners association demande": {
+    "title": "A Missouri couple sought permission for 12 rooftop solar panels, but their homeowners association demande - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQWGNzMS10Y2NDcFlyNXB2VnI2cnZkVHdjeWppWkFrdzJqNWhqUUdTUVFsTGZ2M1F2ZUNvaGhLNFFfdDVTMXhJbGtrUFNzMm1xaDcxbWxNb3ZkemFCc1ZodTRNZkVEdXRoLUc3Yll2aHc2QjhRMEZzYTJhMVZ6bEJoY0x2RHJ4dVpjQ0ExNE5WZ3pKWHdqUXlwQTVTSEUwSDR4b3J0alByQnVNbTNtU0o1RUFkM2RTR2RhOWliWTNUakdPaUFfVEFuWlBGOFl6cnZLMGpkSENybTRPV19Oa0hWVkFWX1N4NzdFbUJyTWY3cXRoZVdTd0hqdC1BRm0zUDUzQnkzeGgzdllVZnRFTHBhZnFNMUJERWdRaXlkWVFmaWd5MFJ2cmYtMFhabU45T0F1ZExOdU9VaWthSnU0bzNRMHVpaXZfLVlhM1JyYllTVTI1aU9YS2pJclpLRDBuRXF6eWw2M2xJdzFlZERhX0xxbFFDeG9TV0djbDFZYXpfQUR1Ri13SEZ0b0JpWUJsOTlRS0JDeHZB0gGbA0FVX3lxTE5jMHh5enY2cXVSdndpcThKNnRrb3pRWmFkcHZUR1V2N1pOUGl3UWNBWUxyQnBITE1RbjRlcXBmankxRXU0Qkk3YXNQOVZJb25GWjlaTS0zenJvemRic0FxUXlVOFlGYThwZXdMV3VGcGdxbFFmR0VESWhsdEFTdEtnQnktaXdtNU9kblhZdkhOWUZwVXRObVBnWXdoTDZhVVR4c2Z6VF9sdHBncFBWTllPcG5zcjNKSXhuN0xySEJoa3JfYllfYmhDbDlLV3prWGJnVjlWSF9FdzdyZEZscUtsN3Q3VE9NWVJrRlZKaVEya1lNX1dFajl4UVNkU2FVRUlReENoaGVPREdYWTRjRzB1cnJhdHlqT2MxUHEyWnVkTzZGM2h0NC14REhfaXlmMFZDcFlnVlZncnZkRVh0blo0SW43SFdMOUVCQ1RCUE5TaFRhYXE1eDVZNzUxSnhPdXVwTmdLRTFSbkZqRXJhMjhiUjRmalBjLUlJb3hDZkpXM2lqM0dtUE1SeEY2MjlNUmU0S0piRkNQN0p3RQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-25T15:25:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Missouri HOA story.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "adb funds 15 mw floating solar plant in kyrgyzstan news and statistics": {
+    "title": "ADB Funds 15 MW Floating Solar Plant in Kyrgyzstan - News and Statistics - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnFxRVo3dXNYM1o5TnFqYTNMS1Q4OEMyXzJTVFNRT2JjLW5HNFNXUjBpdVNtQ21sQmJubTlteXFvcnIzRWRkQWZvZ0M2aTNtQU1kTVlWc2dTTVlVM054Z0RXUUFzbFlPWGlqV0Y5NzlRQ3RIMFZHWTFDWlV1Y01Dbkx4czgzY1U1MEoxR1JRNkZqQ2JMdUlN?oc=5",
+    "source": "Google News",
+    "published": "2026-11-25T11:01:29.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Kyrgyzstan solar.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "layoff tracker capricor could lay off hundreds in wake of fda rejection": {
+    "title": "Layoff Tracker: Capricor could lay off hundreds in wake of FDA rejection - BioSpace",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N2d4NnYwN0JiU181Tm9vV0dUM1c1NWVMUHNCdlZFVmRSZXpmRFp3TnBQUVJXYnFYV1VlNVBIZXU0TzY4bE5BNTd4NGpIT21aYlZHMy1qSW1HWDFH?oc=5",
+    "source": "Google News",
+    "published": "2026-11-25T08:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Biotech layoffs elsewhere.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "jordan school district approves three boundary changes holds off on larger proposal": {
+    "title": "Jordan School District approves three boundary changes, holds off on larger proposal - KMYU",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHZDaEhzbGxscGdBVUxCa1FoRDhQTnlONHNhbmN5SWJZLVA1NDBMN1NWTlQ2UU83dGtNZC1fbWFWWHYwOXNoUTNOTlNUZ1g5V045bFp6dnk1QlZyTXh0dzJNSGVGWUxhRU1lbjdOcmE1YXlZbUxYeWI4OFh4Vm9iQUJIeVhsbXNaSmRQVmJLLXUtNjlfaWl2SkxzZ2kxN1drU2V2UUdBVlhPZEZINmlr?oc=5",
+    "source": "Google News",
+    "published": "2026-11-25T05:13:17.000Z",
+    "category": "schools",
+    "importance": 0,
+    "reason": "Utah school district boundaries.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "what is the cost of living in california": {
+    "title": "What Is the Cost of Living in California? - SmartAsset.com",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scHBIemlGVXZoT1pnd25nZ0pZTFpaTjh2VjhweFhkR2NwdzJCdXpVSHd5bHJhZkwza0dvcUVqVTRtUEM5bWJDa284dkI4Z1lTeFRhclNqQVV2SGZlODR2WmRyd29YMnJ3T3ZYdkRxSEw5UQ?oc=5",
+    "source": "Google News",
+    "published": "2026-11-24T08:00:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Generic cost-of-living article.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "queen creek council approves adjusted water wastewater new development fees": {
+    "title": "Queen Creek council approves adjusted water, wastewater, new development fees - www.yourvalley.net",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3MydWdFYUs1XzBpUkZndHp4N0dvQVJESWlzYUlwRGpxLTBud1BxaEZGY3BnNjZKODFUREd2LWd3QlhsY2YwajIxZ0dsekVlbVRSQ0FKVTkxTkwzUkJsSWhsdTZqMnpCbVBMc3JQZTA5Z1hMa1RObFdMaW4xdkU3UDk0TEJ1TDMtZzNIa2dTNy02OVNPLXhvM1pfc0FBZHl1eE5FLTFCSTgzeVVpRHJSQXRPOENhbXEy?oc=5",
+    "source": "Google News",
+    "published": "2026-11-23T20:50:20.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Arizona fees.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "new york governor signs new rules for private listings into law compass praises it": {
+    "title": "New York Governor signs new rules for private listings into law, Compass praises it - HousingWire",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aWXVmdk90cVV0ZHBCSHBCMWJBSUFodE9TbFk5cUJIWkZsN1FGQ185TEJ1aDFmRTl2c2ctX0hBLUl0VWlMU2lIY2lQVjVCUGIxVUlsM24zMU5aenJmNUh1aE9leFNhTDlKYXBPZnhDLWlzbENG?oc=5",
+    "source": "Google News",
+    "published": "2026-11-23T16:56:39.000Z",
+    "category": "law",
+    "importance": 0,
+    "reason": "New York listing law.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "2121 s el camino real in san mateo eyed for 350 unit expansion for office to housing adaptive reuse": {
+    "title": "2121 S. El Camino Real in San Mateo eyed for 350-unit expansion for office to housing adaptive reuse - San Mateo Daily Journal",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaW5xcDAwLVlnZDBSQ2s2THlSdmFHeTloWlZ0clFlVHJQS2licGowMUtiRmNNREFveU9nV1pheTM3bXpDSTk5NF9MRTJtdFJXWkI0N1BGM2hNZXNuWERDWUxuV3JmNnJObFMtV3RIRXBzVXV3ajMxVmNSRXJVT0ZhLV9MODVxcmk4X05ndzlrdWJXMHFCYlZIVjFCck5KOGNldFE0TFU5T1RZRGtiMlRnbUVUQW9ZMkk3SkU2dGNhYXRiQXN6cXliSjdDQTZwcEt1OFZKMEx6SHFvNG9oNkRaZThtNU9Yd3BoM2hmd2hHbXJ5alFZRHFtQg?oc=5",
+    "source": "Google News",
+    "published": "2026-11-23T13:00:00.000Z",
+    "category": "development",
+    "importance": 7,
+    "reason": "Proposed 350-unit office-to-housing conversion in San Mateo.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "city council approves 32m hotel project in harrisburg s tallest building": {
+    "title": "City Council Approves $32M Hotel Project in Harrisburg’s Tallest Building - Hotel Online",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUNlcGZ2Mm9OSXNOZE5FNVU2dWNKUU1yd0VTdnFWQXV4WHBfb29MTnBIY0FyYk5NZDRZelh4M2dsUndEampiQzZPYzVTMnRHbHgyWnE4b0NMRng2WGM2T2tpczl6T2RPQ25ISDQ5NjBWMHlUWEZjZW9rN2NqMFJOZDRoUXdBNmFXMWtuRDFuYXo1ZG5PU3V6d2w0OU9IRVJX?oc=5",
+    "source": "Google News",
+    "published": "2026-11-23T12:39:00.000Z",
+    "category": "other",
+    "importance": 0,
+    "reason": "Pennsylvania hotel.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
+    "covered": false
+  },
+  "a lost claus florida town hit by state s voter approved property tax overhaul cancels its christmas parade": {
+    "title": "A lost Claus: Florida town hit by state’s voter-approved property tax overhaul cancels its Christmas parade - NBC News",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORTVsMDlJRE1SMHBkQlR1MUFQa3YweHhORXZYMk1nRWdHN2R5VGpfc3F4ajhyNjFEb2dESm5YU3MtNTBtRFJ1QXJzQmh1bHBQVk84Rjc0U3dNSjVlaUZXRnB1Tmh0SVJTN2VWeDVQUm5tSHBHZEs2bEtCdDlCZjQ5eGNGQi0zRzRPRUJRRHdEdU1YeVFjcmhnQzlqX29XS2Rpb0hyeWMxeGlqNE1fNHpWX01LV3FOYzNfR1JfOEpRQjNVeXlicjFn?oc=5",
+    "source": "Google News",
+    "published": "2026-11-23T05:07:00.000Z",
+    "category": "property_tax",
+    "importance": 0,
+    "reason": "Florida property tax story.",
+    "firstSeen": "2026-11-27T23:02:34.837Z",
     "covered": false
   }
 }
